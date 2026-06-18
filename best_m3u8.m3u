@@ -2,7 +2,7 @@
 #PLAYLIST: IPTV M3U8/HLS - Mahmud Tech
 #SERVER: https://xtream.dxhub.qzz.io
 #FORMAT: M3U8 (HLS Adaptive Bitrate)
-#UPDATED: 2026-06-18 14:31:52 UTC
+#UPDATED: 2026-06-18 14:37:16 UTC
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="General" tvg-chno="8",Fifa+
 https://xtream.dxhub.qzz.io/live/fifa/fifa/8.m3u8
