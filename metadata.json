@@ -1,17 +1,6 @@
 {
-  "last_update": "2026-06-25 11:27:51 UTC",
-  "total_channels": 137,
-  "groups": {
-    "LIVE": 8,
-    "Sports Channels": 61,
-    "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09c0 \u099a\u09cd\u09af\u09be\u09a8\u09c7\u09b2": 16,
-    "News Channel": 11,
-    "Infotainment": 11,
-    "Entertainment Channels": 15,
-    "Kids": 5,
-    "Movie Channels": 10
-  },
-  "source": "https://juboraj.pages.dev",
-  "channel": "https://t.me/SGCodexs",
-  "owner": "@UnknownGuy9876"
+  "last_update": "2026-06-25 11:28:03 UTC",
+  "total": 137,
+  "logos_replaced": 118,
+  "channel": "https://t.me/SGCodexs"
 }
