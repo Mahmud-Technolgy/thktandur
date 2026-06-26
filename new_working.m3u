@@ -1,26 +1,27 @@
 #EXTM3U
 #PLAYLIST: HridoyTV Heart Playlist
-#UPDATED: Fri, 26 Jun 2026 09:59:23 GMT
+#UPDATED: Fri, 26 Jun 2026 09:59:48 GMT
 #TOTAL: 136 channels
 #CHANNEL: https://t.me/SGCodexs
 #OWNER: @UnknownGuy9876
+#LOGO_SOURCE: i.ibb.co + i.postimg.cc (Real Logos Only)
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T1&size=128&background=random&color=fff&bold=true" group-title="Sports",TOFFEE 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",TOFFEE 1 HD
 https://cdn-tt.pages.dev/ch1.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T2&size=128&background=random&color=fff&bold=true" group-title="Sports",TOFFEE 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",TOFFEE 2 HD
 https://cdn-tt.pages.dev/ch2.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T3&size=128&background=random&color=fff&bold=true" group-title="Sports",TOFFEE 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",TOFFEE 3 HD
 https://cdn-tt.pages.dev/ch3.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T4&size=128&background=random&color=fff&bold=true" group-title="Sports",TOFFEE 4 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",TOFFEE 4 HD
 https://cdn-tt.pages.dev/ch4.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T5&size=128&background=random&color=fff&bold=true" group-title="Sports",TOFFEE 5 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",TOFFEE 5 HD
 https://cdn-tt.pages.dev/ch5.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=GL&size=128&background=random&color=fff&bold=true" group-title="Other",GO Live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqkvp2XX/Resized-Image-2026-06-24-00-47-41-2748-3.webp" group-title="Sports",BTV BDIX
@@ -38,55 +39,55 @@ http://starhub.pro/live/farhat-3379/67897-913379/52500.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="Sports",T Sports HD
 http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=SB&size=128&background=random&color=fff&bold=true" group-title="Sports",Sports BDIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",Sports BDIX
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg" group-title="Sports",PTV Sports BDIX
 http://198.195.239.50:8095/ptv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=TS&size=128&background=random&color=fff&bold=true" group-title="Sports",TVP Sports FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",TVP Sports FHD
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=US&size=128&background=random&color=fff&bold=true" group-title="Sports",Unite8 Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=B1&size=128&background=random&color=fff&bold=true" group-title="Sports",BeIN 1 Direct FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",BeIN 1 Direct FHD
 http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-hqEbP027yBVHqJ4
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BS&size=128&background=random&color=fff&bold=true" group-title="Sports",BeIN Sports 1 Direct
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",BeIN Sports 1 Direct
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BS&size=128&background=random&color=fff&bold=true" group-title="Sports",BeIN Sports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",BeIN Sports 1
 https://kick.yagaverse.net/bein-sports-1.php?get_variant=aHR0cDovL3VsdGF2My5tZTo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTo0NDo5NTo4NyZzdHJlYW09MTk2NDczJmV4dGVuc2lvbj1tM3U4
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=B4&size=128&background=random&color=fff&bold=true" group-title="Sports",BeIN 4 MAX FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",BeIN 4 MAX FHD
 http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaE4OM3tuyzL533bO9nJYOIc
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BH&size=128&background=random&color=fff&bold=true" group-title="Sports",BeIN HDR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",BeIN HDR
 http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T1&size=128&background=random&color=fff&bold=true" group-title="Other",TSN 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TSN 1
 http://stalker.hakunamata.workers.dev/play/258/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T2&size=128&background=random&color=fff&bold=true" group-title="Other",TSN 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TSN 2
 http://stalker.hakunamata.workers.dev/play/259/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T3&size=128&background=random&color=fff&bold=true" group-title="Other",TSN 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TSN 3
 http://stalker.hakunamata.workers.dev/play/260/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T4&size=128&background=random&color=fff&bold=true" group-title="Other",TSN 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TSN 4
 http://stalker.hakunamata.workers.dev/play/261/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T5&size=128&background=random&color=fff&bold=true" group-title="Other",TSN 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TSN 5
 http://stalker.hakunamata.workers.dev/play/262/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T&size=128&background=random&color=fff&bold=true" group-title="Other",Tsn4k+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",Tsn4k+
 https://streamxyz.shop/tsn4k/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=F&size=128&background=random&color=fff&bold=true" group-title="Other",FS1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",FS1
 https://streamxyz.shop/fs1/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T1&size=128&background=random&color=fff&bold=true" group-title="Other",TSN 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TSN 1
 https://streamxyz.shop/tsn1/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jr7WTrM/7c15687d1790.jpg" group-title="Sports",beIN
@@ -98,70 +99,70 @@ https://streamxyz.shop/Telemundo/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Refer
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qyp5mgV/Hridoy-TV-channel-(16).webp" group-title="Other",BBC
 https://streamxyz.shop/BBC/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=R&size=128&background=random&color=fff&bold=true" group-title="Other",RTB_ANEKA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",RTB_ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=OT&size=128&background=random&color=fff&bold=true" group-title="Other",OKEY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",OKEY TV
 http://iptv.kilas7.com:80/kaukia/asdfrewq/32
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=TS&size=128&background=random&color=fff&bold=true" group-title="Other",TVRI Sport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TVRI Sport
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=TN&size=128&background=random&color=fff&bold=true" group-title="Other",TVRI Nasional
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TVRI Nasional
 http://103.148.44.38:8000/play/a03t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=ES&size=128&background=random&color=fff&bold=true" group-title="Other",ELTA SPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",ELTA SPORT 1
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=RS&size=128&background=random&color=fff&bold=true" group-title="Other",RTM SPORT(K7)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",RTM SPORT(K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/31
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=%D0%9C%D0%A4&size=128&background=random&color=fff&bold=true" group-title="Other",Матч! ФУТБОЛ 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",Матч! ФУТБОЛ 1 HD
 http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=AS&size=128&background=random&color=fff&bold=true" group-title="Other",Arena Sport 1 Premium HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",Arena Sport 1 Premium HD
 http://178.253.194.79:10001
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMCSH5mk/Resized-Image-2026-06-25-09-53-32-9709-2.webp" group-title="Other",FOX
 http://84.17.50.102/fox/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=FW&size=128&background=random&color=fff&bold=true" group-title="Sports",Football World Cup 2026 (TyC Sports)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",Football World Cup 2026 (TyC Sports)
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=WS&size=128&background=random&color=fff&bold=true" group-title="Sports",Win Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=TS&size=128&background=random&color=fff&bold=true" group-title="Sports",TVP Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",TVP Sports
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryYgBsJC/Resized-Image-2026-06-24-00-47-40-7401-1.webp" group-title="Sports",D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=C5&size=128&background=random&color=fff&bold=true" group-title="Other",Canal 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",Canal 5
 https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=DD&size=128&background=random&color=fff&bold=true" group-title="Other",Dazn Direct
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",Dazn Direct
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=DH&size=128&background=random&color=fff&bold=true" group-title="Other",DAZN HDR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",DAZN HDR
 https://fhd60fps-by-opensourecflix.exmax.workers.dev/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=TA&size=128&background=random&color=fff&bold=true" group-title="Other",TV Azteca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TV Azteca
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=%D0%9C&size=128&background=random&color=fff&bold=true" group-title="Other",Матч
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",Матч
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=FE&size=128&background=random&color=fff&bold=true" group-title="Pinned",FIFA Exclusive
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Pinned",FIFA Exclusive
 https://fifaexclusive.myziboplay.xyz/Fifa/index.m3u8?token=fe6Uuugm3xgIm2
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=TS&size=128&background=random&color=fff&bold=true" group-title="LIVE",TOFFEE Sports VIP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="LIVE",TOFFEE Sports VIP
 https://sm-monirul.top/toffee/play/sports_highlights.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=TM&size=128&background=random&color=fff&bold=true" group-title="LIVE",TOFFEE Movies VIP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="LIVE",TOFFEE Movies VIP
 https://sm-monirul.top/toffee/play/toffee_movie.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=TD&size=128&background=random&color=fff&bold=true" group-title="LIVE",TOFFEE Dramas VIP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="LIVE",TOFFEE Dramas VIP
 https://sm-monirul.top/toffee/play/toffee_drama.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhmWFRfr/Hridoy-TV-international-(1).webp" group-title="News Channel",CNN VIP
@@ -227,19 +228,19 @@ https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLTsCPdq/75f60097d1d1.jpg" group-title="News Channel",Ekattor TV
 https://sm-monirul.top/toffee/play/ekattor_tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=ES&size=128&background=random&color=fff&bold=true" group-title="Sports Channels",Euro Sport HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports Channels",Euro Sport HD
 https://sm-monirul.top/toffee/play/euro_sports_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=IT&size=128&background=random&color=fff&bold=true" group-title="Sports Channels",ICC Test Championship Highlights
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports Channels",ICC Test Championship Highlights
 https://sm-monirul.top/toffee/play/icc_wtc_final.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=SS&size=128&background=random&color=fff&bold=true" group-title="Sports Channels",SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports Channels",SONY SPORTS TEN 1 HD
 https://sm-monirul.top/toffee/play/sony_sports_1_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=SS&size=128&background=random&color=fff&bold=true" group-title="Sports Channels",SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports Channels",SONY SPORTS TEN 2 HD
 https://sm-monirul.top/toffee/play/sony_sports_2_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=SS&size=128&background=random&color=fff&bold=true" group-title="Sports Channels",SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports Channels",SONY SPORTS TEN 5 HD
 https://sm-monirul.top/toffee/play/sony_sports_5_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw9VTT5S/Resized-Image-2026-06-25-10-05-05-0235-1.webp" group-title="Sports Channels",SONY TEN Cricket
@@ -275,10 +276,10 @@ https://sm-monirul.top/toffee/play/hum_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vm2mLzrz/Hridoy-TV-entertainment-channel-(4).webp" group-title="Entertainment Channels",Hum Masala
 https://sm-monirul.top/toffee/play/hum_masala.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=HS&size=128&background=random&color=fff&bold=true" group-title="Entertainment Channels",Hum Sitarey
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Entertainment Channels",Hum Sitarey
 https://sm-monirul.top/toffee/play/hum_sitaray.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=SA&size=128&background=random&color=fff&bold=true" group-title="Entertainment Channels",Sony Aat VIP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Entertainment Channels",Sony Aat VIP
 https://sm-monirul.top/toffee/play/sonyaath.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fgftpdS/Hridoy-TV-entertainment-channel-(8).webp" group-title="Entertainment Channels",SONY ENTERTAINMENT TELEVISION HD VIP
@@ -287,7 +288,7 @@ https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fgftpdS/Hridoy-TV-entertainment-channel-(8).webp" group-title="Entertainment Channels",SONY ENTERTAINMENT TELEVISION
 https://sm-monirul.top/toffee/play/sony_entertainment.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BM&size=128&background=random&color=fff&bold=true" group-title="Entertainment Channels",B4U Music VIP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Entertainment Channels",B4U Music VIP
 https://sm-monirul.top/toffee/play/b4u_music.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB4BcVXG/Hridoy-TV-entertainment-channel-(7).webp" group-title="Entertainment Channels",SONY SAB HD VIP
@@ -308,7 +309,7 @@ https://sm-monirul.top/toffee/play/zee_bollywood.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2Dpt7G6/Hridoy-TV-channel-(7).webp" group-title="Movie Channels",Zee Action
 https://sm-monirul.top/toffee/play/zee_action.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=SM&size=128&background=random&color=fff&bold=true" group-title="Movie Channels",SONY MAX VIP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Movie Channels",SONY MAX VIP
 https://sm-monirul.top/toffee/play/sony_max.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/523JKrft/Hridoy-TV-channel-(1).webp" group-title="Movie Channels",SONY PIX HD VIP
@@ -317,7 +318,7 @@ https://sm-monirul.top/toffee/play/sonypix_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xBhfq3v/Hridoy-TV-channel-(9).webp" group-title="Movie Channels",Zee Cafe
 https://sm-monirul.top/toffee/play/zee_cafe_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BM&size=128&background=random&color=fff&bold=true" group-title="Movie Channels",B4U Movies VIP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Movie Channels",B4U Movies VIP
 https://sm-monirul.top/toffee/play/b4u_movies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T39xNsTK/Hridoy-TV-channel-(5).webp" group-title="Movie Channels",SONY MAX 2 VIP
@@ -356,43 +357,43 @@ https://sm-monirul.top/toffee/play/discovery_turbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7zvM5Sx/Hridoy-TV-channel-(15).webp" group-title="Infotainment",Investigation Discovery HD
 https://sm-monirul.top/toffee/play/discovary_investigation_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=%26H&size=128&background=random&color=fff&bold=true" group-title="Entertainment Channels",&TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Entertainment Channels",&TV HD
 https://sm-monirul.top/toffee/play/and_tv_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=%26P&size=128&background=random&color=fff&bold=true" group-title="Entertainment Channels",& Pictures HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Entertainment Channels",& Pictures HD
 https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=CT&size=128&background=random&color=fff&bold=true" group-title="Other",Caze TV Brazil 🇧🇷
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",Caze TV Brazil 🇧🇷
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=TM&size=128&background=random&color=fff&bold=true" group-title="Other",TUDN MX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TUDN MX
 https://linear-357.frequency.stream/dist/vizio/357/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53WYCqJ/Resized-Image-2026-06-25-09-53-31-8116-1.webp" group-title="Sports",TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=TS&size=128&background=random&color=fff&bold=true" group-title="Other",TVRI SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BS&size=128&background=random&color=fff&bold=true" group-title="Sports",BeIN Sports Español
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",BeIN Sports Español
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=FW&size=128&background=random&color=fff&bold=true" group-title="Sports",Football World Cup 2026 (TyC Sports 🇦🇷)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",Football World Cup 2026 (TyC Sports 🇦🇷)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=F&size=128&background=random&color=fff&bold=true" group-title="Pinned",FIFA+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Pinned",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=P4&size=128&background=random&color=fff&bold=true" group-title="Other",PZIRB 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",PZIRB 4K
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BS&size=128&background=random&color=fff&bold=true" group-title="Sports",BEIN SPORTS MAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",BEIN SPORTS MAX
 https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BS&size=128&background=random&color=fff&bold=true" group-title="Sports",BBC SPORTS UK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",BBC SPORTS UK
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=356&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=FT&size=128&background=random&color=fff&bold=true" group-title="Other",FUSSBALL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",FUSSBALL TV
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=263&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTj8MDPZ/4d07ac373639.jpg" group-title="Sports",PTV SPORTS HD
@@ -401,15 +402,15 @@ https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h12HMFDr/29eda9a8b71a.jpg" group-title="Sports",T SPORTS HD
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=270&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BA&size=128&background=random&color=fff&bold=true" group-title="Sports",BeIN ARABIC FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",BeIN ARABIC FHD
 https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=966&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=T4&size=128&background=random&color=fff&bold=true" group-title="Other",TSN 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",TSN 4K
 https://streamxyz.shop/tsn4k/index.m3u8|referer=https://xyzstreams.shop/
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=F4&size=128&background=random&color=fff&bold=true" group-title="Other",FOX 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",FOX 4K
 https://streamxyz.shop/fox4k/index.m3u8|referer=https://xyzstreams.shop/
 
-#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=BH&size=128&background=random&color=fff&bold=true" group-title="Sports",BEIN HDR 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Sports",BEIN HDR 4K
 https://streamxyz.shop/bein4k/index.m3u8|referer=https://xyzstreams.shop/
 
