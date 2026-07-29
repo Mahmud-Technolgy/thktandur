@@ -1,0 +1,1168 @@
+#EXTM3U
+#PLAYLIST: PAK Live
+#Generated: 2026-07-30 01:27:01
+#Total Channels: 581
+#Server: http://filex.me:8080
+
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Quran Mujeed HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqIunp2uh2ml7qunCMxZMnnK0LlcU5J3trYduXFFfpeU1swjI2yuY0h3g&s=10",PK | Quran Mujeed HD [1 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/311.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Madani Channel HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madani-channel-pk.png",PK | Madani Channel HD [4 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247146.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Peace TV URDU HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png",PK | Peace TV URDU HD [6 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247151.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Paigham TV URDU HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paigham_tv_pk.png",PK | Paigham TV URDU HD [8 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247153.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Paigham Pashto TV" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/Paigham-Pashto-TV.png",PK | Paigham Pashto TV [9 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1371076.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY QTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_qtv.png",PK | ARY QTV HD [10 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247150.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HADI TV HD" tvg-logo="https://en.haditv.co.uk/pics/logo.png",PK | HADI TV HD [14 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247149.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png",PK | HUM TV SD [193 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110033.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png",PK | HUM TV HD [194 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110034.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM Europe HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_europe.png",PK | HUM Europe HD [195 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/480443.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY Digital SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png",PK | ARY Digital SD [196 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110036.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY Digital HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png",PK | ARY Digital HD [197 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110038.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO Entertainment SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png",PK | GEO Entertainment SD [198 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110040.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png",PK | GEO Entertainment HD [199 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110041.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | BOL Entertainment SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png",PK | BOL Entertainment SD [200 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110043.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | BOL Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png",PK | BOL Entertainment HD [201 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110044.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Express Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express_entertainment_pk.png",PK | Express Entertainment HD [208 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110047.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ATV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-pk.png",PK | ATV HD [211 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110065.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Filmazia HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia_pk.png",PK | Filmazia HD [213 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110107.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | FILMAZIA PUNJABI HD" tvg-logo="",PK | FILMAZIA PUNJABI HD [214 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/969782.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | APNA TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/apna-channel-pk.png",PK | APNA TV HD [216 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/190765.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY Zindagi HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_zindagi_pk.png",PK | ARY Zindagi HD [217 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110049.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY QTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_qtv.png",PK | ARY QTV HD [218 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110071.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO Kahani HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_kahani_pk.png",PK | GEO Kahani HD [219 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110052.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Pashto 1 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pashto_1_pk.png",PK | Pashto 1 TV HD [222 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110084.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Sindh TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv.png",PK | Sindh TV HD [223 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110090.ts
+#EXTINF:-1 tvg-id="PTV.Home.pk" tvg-name="PK | PTV HOME  HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-home-pk.png",PK | PTV HOME  HD [224 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110067.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM Sitary HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-sitaray-pk.png",PK | HUM Sitary HD [226 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110058.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Khyber TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-middle-east-tv-pk.png",PK | Khyber TV HD [227 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/189484.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Waseb TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb_tv.png",PK | Waseb TV HD [231 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110095.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | KTN TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktn_tv_pk.png",PK | KTN TV HD [232 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110081.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM Masala HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-masala.png",PK | HUM Masala HD [234 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/538028.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | URDU 1" tvg-logo="http://magbox.top:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png",PK | URDU 1 [237 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/987093.ts
+#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | 92 NEWS SD" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png",PK | 92 NEWS SD [281 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52034.ts
+#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | 92 NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png",PK | 92 NEWS HD [282 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52035.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY NEWS SD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png",PK | ARY NEWS SD  [283 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52042.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png",PK | ARY NEWS HD [284 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52043.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO NEWS SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png",PK | GEO NEWS SD [285 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52040.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png",PK | GEO NEWS HD [286 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52041.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | BOL NEWS SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png",PK | BOL NEWS SD [287 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52036.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | BOL NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png",PK | BOL NEWS HD [288 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52037.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Express NEWS  SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png",PK | Express NEWS  SD [289 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52038.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Express NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png",PK | Express NEWS HD [290 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52039.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Lahore NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore_news_pk.png",PK | Lahore NEWS HD [292 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52056.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Lahore RANG HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore-rang-pk.png",PK | Lahore RANG HD [293 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52060.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | DAWN NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dawn_news_pk.png",PK | DAWN NEWS HD [294 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52061.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | AAJ NEWS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_tv_news.png",PK | AAJ NEWS HD [295 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52044.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Samaa NEWS HD" tvg-logo="https://www.dthsat.com/images/Samaa-News-Logo.png",PK | Samaa NEWS HD [298 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52045.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-news-pk.png",PK | HUM NEWS HD [302 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/71178.ts
+#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | PTV NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_news_pk.png",PK | PTV NEWS HD [304 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52073.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | CITY 42 NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_42_tv.png",PK | CITY 42 NEWS HD [307 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52052.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | NEO NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/neo-tv-pk.png",PK | NEO NEWS HD [309 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/453383.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO TEZ HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tez_pk.png",PK | GEO TEZ HD [311 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/453385.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Khyber NEWS  HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-news-pk.png",PK | Khyber NEWS  HD [314 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/189485.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Sindh NEWS  HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv_news.png",PK | Sindh NEWS  HD [315 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52057.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | KTN News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7ff7dd498f7920b5609b7328555de6e3.png",PK | KTN News [317 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/987098.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Awaz TV" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",PK | Awaz TV [327 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/987097.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png",PK | HUM TV 4K [239 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246620.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY Digital 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png",PK | ARY Digital 4K [240 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246590.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO ENT 4K" tvg-logo="https://www.lyngsat.com/logo/corp/gg/geo_tv_network.png",PK | GEO ENT 4K [241 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246595.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | BOL ENT 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png",PK | BOL ENT 4K [245 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246591.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Express ENT 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express_entertainment_pk.png",PK | Express ENT 4K [246 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246593.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO Kahani 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_kahani_pk.png",PK | GEO Kahani 4K [249 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246596.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Filmazia Punjabi 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia-punjabi-pk.png",PK | Filmazia Punjabi 4K [251 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246624.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Filmazia 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia_pk.png",PK | Filmazia 4K [252 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246622.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM Masala 4K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-masala.png",PK | HUM Masala 4K [253 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246597.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM Sitary 4K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-sitaray-pk.png",PK | HUM Sitary 4K [254 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246598.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM Pashto 1 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPjQzJmbYCiY4lDOK0afNmVOMopUyUmcQ2kQqRyPvMd2ULr8KuDYEbJDc-&s=10",PK | HUM Pashto 1 4K [255 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246602.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Pashto1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pashto_1_pk.png",PK | Pashto1 4K [256 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246603.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | APNA TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/apna-channel-pk.png",PK | APNA TV 4K [257 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246588.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ATV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-pk.png",PK | ATV 4K [261 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246625.ts
+#EXTINF:-1 tvg-id="PTV.Home.pk" tvg-name="PK | PTV HOME 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_home_pk.png",PK | PTV HOME 4K [262 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246604.ts
+#EXTINF:-1 tvg-id="PTV.National.pk" tvg-name="PK | PTV National 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_national_pk.png",PK | PTV National 4K [263 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246619.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Khyber TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-middle-east-tv-pk.png",PK | Khyber TV 4K [265 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246600.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | KTN ENT 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktn_tv_pk.png",PK | KTN ENT 4K [266 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246601.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Sindh TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv.png",PK | Sindh TV 4K [267 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246607.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY Zindagi 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_zindagi_pk.png",PK | ARY Zindagi 4K [271 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246617.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Waseb 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb_tv.png",PK | Waseb 4K [275 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246618.ts
+#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | 92 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png",PK | 92 NEWS 4K [334 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246995.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png",PK | ARY NEWS 4K [335 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246972.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_international.png",PK | GEO NEWS 4K [336 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246976.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | BOL NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png",PK | BOL NEWS 4K [337 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246974.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | DAWN NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dawn_news_pk.png",PK | DAWN NEWS 4K [338 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246993.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Dunya NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya_news_tv_pk.png",PK | Dunya NEWS 4K [340 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246973.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Express NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png",PK | Express NEWS 4K [341 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246975.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Lahore RANG 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore-rang-pk.png",PK | Lahore RANG 4K [342 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/283903.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Lahore NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore_news_pk.png",PK | Lahore NEWS 4K [346 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247001.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Samaa NEWS 4K" tvg-logo="https://www.dthsat.com/images/Samaa-News-Logo.png",PK | Samaa NEWS 4K [347 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246986.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | AAJ NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_tv_news.png",PK | AAJ NEWS 4K [348 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247011.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | HUM NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-news-pk.png",PK | HUM NEWS 4K [353 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246980.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | CITY 42 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_42_tv.png",PK | CITY 42 NEWS 4K [356 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246996.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ROZE NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/rr/roze_news_pk.png",PK | ROZE NEWS 4K [359 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247003.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | NEO NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/nn/neo-tv-pk.png",PK | NEO NEWS 4K [362 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246983.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Khyber NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-news-pk.png",PK | Khyber NEWS 4K [363 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246981.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO TEZ 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tez_pk.png",PK | GEO TEZ 4K [364 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246978.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | Sindh NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv_news.png",PK | Sindh NEWS 4K [367 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247004.ts
+#EXTINF:-1 tvg-id="PTV.World.pk" tvg-name="PK | PTV GLOBAL 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_world_pk.png",PK | PTV GLOBAL 4K [371 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246985.ts
+#EXTINF:-1 tvg-id="PTV.News.pk" tvg-name="PK | PTV NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_news_pk.png",PK | PTV NEWS 4K [372 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246984.ts
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_COLORS CINEPLEX BOLLYWOOD" tvg-logo="",IND_COLORS CINEPLEX BOLLYWOOD [442 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/911273.ts
+#EXTINF:-1 tvg-id="404001" tvg-name="IN | ZEE Bollywood 4K" tvg-logo="",IN | ZEE Bollywood 4K [448 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/275059.ts
+#EXTINF:-1 tvg-id="404001" tvg-name="IND_TV9 BHARATVARSH" tvg-logo="",IND_TV9 BHARATVARSH [463 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/911256.ts
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PTV Sports HD." tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png",PTV Sports HD. [92 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247170.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PAK GEO Super HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png",PAK GEO Super HD [94 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/247167.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PAK_GEO SUPER 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png",PAK_GEO SUPER 4K [95 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955667.ts
+#EXTINF:-1 tvg-id="None" tvg-name="HARYANA_DD HARYANA" tvg-logo="",HARYANA_DD HARYANA [4880 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1370070.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IND_DD URDU" tvg-logo="",IND_DD URDU [4885 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1370075.ts
+#EXTINF:-1 tvg-id="None" tvg-name="KASHMIRI_DD KASHIR" tvg-logo="",KASHMIRI_DD KASHIR [4915 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1370105.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IND_GOLDMINES BOLLYWOOD" tvg-logo="channels4_profile.jpg",IND_GOLDMINES BOLLYWOOD [591 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/911250.ts
+#EXTINF:-1 tvg-id="464096" tvg-name="IN | BOLLYWOOD 4U HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVecu5vOyCN5gRM2w1pWpKZ-y2AkGS39VTP6v5gi5_DhsllzL5UWoxLs&s=10",IN | BOLLYWOOD 4U HD [398 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/58.ts
+#EXTINF:-1 tvg-id="464096" tvg-name="IN | TS Zee Bollywood" tvg-logo="",IN | TS Zee Bollywood [416 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/911604.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN | TS Colors Cineplex Bollywood" tvg-logo="",IN | TS Colors Cineplex Bollywood [420 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/911597.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN: Blessing TV HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",IN: Blessing TV HD [663 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/497307.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN: Bollywood Classic HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",IN: Bollywood Classic HD [664 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/497308.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN: Bollywood Prime HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",IN: Bollywood Prime HD [665 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/497309.ts
+#EXTINF:-1 tvg-id="463838" tvg-name="IN: Colors Cineplex Bollywood HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/a02b489d0f1f2f3f6e2dae8afb82e9f5.png",IN: Colors Cineplex Bollywood HD [673 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499619.ts
+#EXTINF:-1 tvg-id="464208" tvg-name="IN: Dhoom Music HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce13284a7100c8624c16913a7886eebe.png",IN: Dhoom Music HD [689 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499689.ts
+#EXTINF:-1 tvg-id="464096" tvg-name="IN: ZEE Bollywood HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e6c48a8c46101a99e4a41418aaeb70aa.png",IN: ZEE Bollywood HD [851 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/497383.ts
+#EXTINF:-1 tvg-id="441310" tvg-name="IN: ZEE Punjab Haryana Himachal HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/5455b817db810f3e0fc883dd4a92de19.svg",IN: ZEE Punjab Haryana Himachal HD [860 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/497387.ts
+#EXTINF:-1 tvg-id="None" tvg-name="George Russell | Mercedes | RUS" tvg-logo="https://i.ibb.co/wF84VC7s/Formula1.png",George Russell | Mercedes | RUS [20 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1390877.ts
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PK | PTV Sports SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png",PK | PTV Sports SD [47 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/250211.ts
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PK | PTV Sports HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png",PK | PTV Sports HD [48 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/453434.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY Sports HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png",PK | ARY Sports HD [49 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/190767.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | ARY Sports FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png",PK | ARY Sports FHD [50 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/62393.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK | GEO Super HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png",PK | GEO Super HD [53 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/52080.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CRICKET (4) Urdu 2  ( Match Time Only)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10",CRICKET (4) Urdu 2  ( Match Time Only) [121 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/911332.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood 4K" tvg-logo="",CInemania Bollywood 4K [1647 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532734.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 1 FHD" tvg-logo="",CInemania Bollywood 1 FHD [1297 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532648.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 2 FHD" tvg-logo="",CInemania Bollywood 2 FHD [1298 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532649.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 3 FHD" tvg-logo="",CInemania Bollywood 3 FHD [1299 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532650.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 4 FHD" tvg-logo="",CInemania Bollywood 4 FHD [1300 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532651.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 5 FHD" tvg-logo="",CInemania Bollywood 5 FHD [1301 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532652.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 6 FHD" tvg-logo="",CInemania Bollywood 6 FHD [1302 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532653.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 7 FHD" tvg-logo="",CInemania Bollywood 7 FHD [1303 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532654.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 8 FHD" tvg-logo="",CInemania Bollywood 8 FHD [1304 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532655.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 9 FHD" tvg-logo="",CInemania Bollywood 9 FHD [1305 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532656.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 10 FHD" tvg-logo="",CInemania Bollywood 10 FHD [1306 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532657.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 11 FHD" tvg-logo="",CInemania Bollywood 11 FHD [1307 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532658.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 12 FHD" tvg-logo="",CInemania Bollywood 12 FHD [1308 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532659.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 13 FHD" tvg-logo="",CInemania Bollywood 13 FHD [1309 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532660.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 14 FHD" tvg-logo="",CInemania Bollywood 14 FHD [1310 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532661.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 15 FHD" tvg-logo="",CInemania Bollywood 15 FHD [1311 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532662.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 16 FHD" tvg-logo="",CInemania Bollywood 16 FHD [1312 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532663.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 17 FHD" tvg-logo="",CInemania Bollywood 17 FHD [1313 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532664.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 18 FHD" tvg-logo="",CInemania Bollywood 18 FHD [1314 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532665.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 19 FHD" tvg-logo="",CInemania Bollywood 19 FHD [1315 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532666.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 20 FHD" tvg-logo="",CInemania Bollywood 20 FHD [1316 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532667.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 21 FHD" tvg-logo="",CInemania Bollywood 21 FHD [1317 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532668.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 22 FHD" tvg-logo="",CInemania Bollywood 22 FHD [1318 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532669.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 23 FHD" tvg-logo="",CInemania Bollywood 23 FHD [1319 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532670.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 24 FHD" tvg-logo="",CInemania Bollywood 24 FHD [1320 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532671.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 25 FHD" tvg-logo="",CInemania Bollywood 25 FHD [1321 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532672.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 26 FHD" tvg-logo="",CInemania Bollywood 26 FHD [1322 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532673.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 27 FHD" tvg-logo="",CInemania Bollywood 27 FHD [1323 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532674.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 28 FHD" tvg-logo="",CInemania Bollywood 28 FHD [1324 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532675.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 29 FHD" tvg-logo="",CInemania Bollywood 29 FHD [1325 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532676.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 30 FHD" tvg-logo="",CInemania Bollywood 30 FHD [1326 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532677.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 31 FHD" tvg-logo="",CInemania Bollywood 31 FHD [1327 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532678.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 32 FHD" tvg-logo="",CInemania Bollywood 32 FHD [1328 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532679.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 33 FHD" tvg-logo="",CInemania Bollywood 33 FHD [1329 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532680.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 34 FHD" tvg-logo="",CInemania Bollywood 34 FHD [1330 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532681.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 35 FHD" tvg-logo="",CInemania Bollywood 35 FHD [1331 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532682.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 36 FHD" tvg-logo="",CInemania Bollywood 36 FHD [1332 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532683.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 37 FHD" tvg-logo="",CInemania Bollywood 37 FHD [1333 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532684.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 38 FHD" tvg-logo="",CInemania Bollywood 38 FHD [1334 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532685.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 39 FHD" tvg-logo="",CInemania Bollywood 39 FHD [1335 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532686.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 40 FHD" tvg-logo="",CInemania Bollywood 40 FHD [1336 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532687.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 41 FHD" tvg-logo="",CInemania Bollywood 41 FHD [1337 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532688.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 42 FHD" tvg-logo="",CInemania Bollywood 42 FHD [1338 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532689.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 43 FHD" tvg-logo="",CInemania Bollywood 43 FHD [1339 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532690.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 44 FHD" tvg-logo="",CInemania Bollywood 44 FHD [1340 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532691.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 45 FHD" tvg-logo="",CInemania Bollywood 45 FHD [1341 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532692.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 46 FHD" tvg-logo="",CInemania Bollywood 46 FHD [1342 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532693.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 47 FHD" tvg-logo="",CInemania Bollywood 47 FHD [1343 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532694.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 48 FHD" tvg-logo="",CInemania Bollywood 48 FHD [1344 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532695.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 49 FHD" tvg-logo="",CInemania Bollywood 49 FHD [1345 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532696.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood 50 FHD" tvg-logo="",CInemania Bollywood 50 FHD [1346 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/532697.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Action 1 FHD" tvg-logo="",CInemania Bollywood Action 1 FHD [1347 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533480.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Action 2 FHD" tvg-logo="",CInemania Bollywood Action 2 FHD [1348 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533481.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Action 3 FHD" tvg-logo="",CInemania Bollywood Action 3 FHD [1349 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533482.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Action 4 FHD" tvg-logo="",CInemania Bollywood Action 4 FHD [1350 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533483.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Action 5 FHD" tvg-logo="",CInemania Bollywood Action 5 FHD [1351 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533484.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Action 6 FHD" tvg-logo="",CInemania Bollywood Action 6 FHD [1352 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533485.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Action 7 FHD" tvg-logo="",CInemania Bollywood Action 7 FHD [1353 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533486.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Action 8 FHD" tvg-logo="",CInemania Bollywood Action 8 FHD [1354 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533487.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Action 9 FHD" tvg-logo="",CInemania Bollywood Action 9 FHD [1355 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533488.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Action 10 FHD" tvg-logo="",CInemania Bollywood Action 10 FHD [1356 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533489.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Comedy 1 FHD" tvg-logo="",CInemania Bollywood Comedy 1 FHD [1357 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533490.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Comedy 2 FHD" tvg-logo="",CInemania Bollywood Comedy 2 FHD [1358 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533491.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Comedy 3 FHD" tvg-logo="",CInemania Bollywood Comedy 3 FHD [1359 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533492.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Comedy 4 FHD" tvg-logo="",CInemania Bollywood Comedy 4 FHD [1360 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533493.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Comedy 5 FHD" tvg-logo="",CInemania Bollywood Comedy 5 FHD [1361 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533494.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Comedy 6 FHD" tvg-logo="",CInemania Bollywood Comedy 6 FHD [1362 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533495.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Comedy 7 FHD" tvg-logo="",CInemania Bollywood Comedy 7 FHD [1363 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533496.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Comedy 8 FHD" tvg-logo="",CInemania Bollywood Comedy 8 FHD [1364 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533497.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Comedy 9 FHD" tvg-logo="",CInemania Bollywood Comedy 9 FHD [1365 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533498.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Comedy 10 FHD" tvg-logo="",CInemania Bollywood Comedy 10 FHD [1366 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533499.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Drama 1 FHD" tvg-logo="",CInemania Bollywood Drama 1 FHD [1367 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533500.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Drama 2 FHD" tvg-logo="",CInemania Bollywood Drama 2 FHD [1368 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533501.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Drama 3 FHD" tvg-logo="",CInemania Bollywood Drama 3 FHD [1369 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533502.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Drama 4 FHD" tvg-logo="",CInemania Bollywood Drama 4 FHD [1370 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533503.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Drama 5 FHD" tvg-logo="",CInemania Bollywood Drama 5 FHD [1371 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533504.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Drama 6 FHD" tvg-logo="",CInemania Bollywood Drama 6 FHD [1372 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533505.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Drama 7 FHD" tvg-logo="",CInemania Bollywood Drama 7 FHD [1373 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533506.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Drama 8 FHD" tvg-logo="",CInemania Bollywood Drama 8 FHD [1374 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533507.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Drama 9 FHD" tvg-logo="",CInemania Bollywood Drama 9 FHD [1375 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533508.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Drama 10 FHD" tvg-logo="",CInemania Bollywood Drama 10 FHD [1376 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533509.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Romance 1 FHD" tvg-logo="",CInemania Bollywood Romance 1 FHD [1377 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533510.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Romance 2 FHD" tvg-logo="",CInemania Bollywood Romance 2 FHD [1378 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533511.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Romance 3 FHD" tvg-logo="",CInemania Bollywood Romance 3 FHD [1379 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533512.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Romance 4 FHD" tvg-logo="",CInemania Bollywood Romance 4 FHD [1380 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533513.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Romance 5 FHD" tvg-logo="",CInemania Bollywood Romance 5 FHD [1381 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533514.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Romance 6 FHD" tvg-logo="",CInemania Bollywood Romance 6 FHD [1382 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533515.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Romance 7 FHD" tvg-logo="",CInemania Bollywood Romance 7 FHD [1383 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533516.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Romance 8 FHD" tvg-logo="",CInemania Bollywood Romance 8 FHD [1384 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533517.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Romance 9 FHD" tvg-logo="",CInemania Bollywood Romance 9 FHD [1385 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533518.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Romance 10 FHD" tvg-logo="",CInemania Bollywood Romance 10 FHD [1386 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533519.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Horror 1 FHD" tvg-logo="",CInemania Bollywood Horror 1 FHD [1387 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533520.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Horror 2 FHD" tvg-logo="",CInemania Bollywood Horror 2 FHD [1388 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533521.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Horror 3 FHD" tvg-logo="",CInemania Bollywood Horror 3 FHD [1389 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533522.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Horror 4 FHD" tvg-logo="",CInemania Bollywood Horror 4 FHD [1390 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533523.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Horror 5 FHD" tvg-logo="",CInemania Bollywood Horror 5 FHD [1391 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533524.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Horror 6 FHD" tvg-logo="",CInemania Bollywood Horror 6 FHD [1392 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533525.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Crime 1 FHD" tvg-logo="",CInemania Bollywood Crime 1 FHD [1393 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533526.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Crime 2 FHD" tvg-logo="",CInemania Bollywood Crime 2 FHD [1394 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533527.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Crime 3 FHD" tvg-logo="",CInemania Bollywood Crime 3 FHD [1395 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533528.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Crime 4 FHD" tvg-logo="",CInemania Bollywood Crime 4 FHD [1396 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533529.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Crime 5 FHD" tvg-logo="",CInemania Bollywood Crime 5 FHD [1397 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533530.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Crime 6 FHD" tvg-logo="",CInemania Bollywood Crime 6 FHD [1398 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533531.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Crime 7 FHD" tvg-logo="",CInemania Bollywood Crime 7 FHD [1399 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533532.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Crime 8 FHD" tvg-logo="",CInemania Bollywood Crime 8 FHD [1400 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533533.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="CInemania Bollywood Crime 9 FHD" tvg-logo="",CInemania Bollywood Crime 9 FHD [1401 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533534.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood Crime 10 FHD" tvg-logo="",CInemania Bollywood Crime 10 FHD [1402 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533535.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood WAR N History 1 FHD" tvg-logo="",CInemania Bollywood WAR N History 1 FHD [1403 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533536.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood WAR N History 2 FHD" tvg-logo="",CInemania Bollywood WAR N History 2 FHD [1404 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533537.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood WAR N History 3 FHD" tvg-logo="",CInemania Bollywood WAR N History 3 FHD [1405 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533538.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood WAR N History 4 FHD" tvg-logo="",CInemania Bollywood WAR N History 4 FHD [1406 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533539.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood WAR N History 5 FHD" tvg-logo="",CInemania Bollywood WAR N History 5 FHD [1407 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533540.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Hollywood Documentary 1 FHD" tvg-logo="",CInemania Hollywood Documentary 1 FHD [1584 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533475.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Hollywood Documentary 2 FHD" tvg-logo="",CInemania Hollywood Documentary 2 FHD [1585 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533476.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Hollywood Documentary 3 FHD" tvg-logo="",CInemania Hollywood Documentary 3 FHD [1586 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533477.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Hollywood Documentary 4 FHD" tvg-logo="",CInemania Hollywood Documentary 4 FHD [1587 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533478.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CInemania Hollywood Documentary 5 FHD" tvg-logo="",CInemania Hollywood Documentary 5 FHD [1588 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/533479.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: HOTI SI Zindagi HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: HOTI SI Zindagi HUM TV HD [1878 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507652.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: HUM TV Telefilm HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: HUM TV Telefilm HD [1879 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507653.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: ISHQ Tamasha HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: ISHQ Tamasha HUM TV HD [1880 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507654.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: Khamoshi HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: Khamoshi HUM TV HD [1881 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507655.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: MAAT HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: MAAT HUM TV HD [1882 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507656.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: MATA E JAAN HAI TU HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: MATA E JAAN HAI TU HUM TV HD [1883 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507657.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: Parchayee HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: Parchayee HUM TV HD [1884 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507658.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: Parizaad HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: Parizaad HUM TV HD [1885 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507659.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: QAID E Tanhai HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: QAID E Tanhai HUM TV HD [1886 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507660.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: Sanam HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: Sanam HUM TV HD [1887 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507661.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: SANG E MAR MAR HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: SANG E MAR MAR HUM TV HD [1888 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507662.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: SUNO Chanda HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: SUNO Chanda HUM TV HD [1889 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507663.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: WOH AIK PAL HUM TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: WOH AIK PAL HUM TV HD [1890 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507664.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: HI TECH Pashto Films HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: HI TECH Pashto Films HD [1891 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507629.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: Pashto Movies VOL 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: Pashto Movies VOL 1 HD [1898 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507636.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: URDU Cinema 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: URDU Cinema 1 HD [1913 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507651.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: Farhan Saeed HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: Farhan Saeed HD [1855 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507606.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: Hadiqa Kiani HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: Hadiqa Kiani HD [1859 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507610.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PK: Humaira Channa HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",PK: Humaira Channa HD [1860 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507611.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN: Nawazuddin Siddiqui Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",IN: Nawazuddin Siddiqui Movies HD [1724 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507416.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN: Abhijeet Bhattacharya Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",IN: Abhijeet Bhattacharya Songs HD [1654 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/507346.ts
+#EXTINF:-1 tvg-id="464185" tvg-name="PK | Discovery Pakistan HD" tvg-logo="",PK | Discovery Pakistan HD [925 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/110068.ts
+#EXTINF:-1 tvg-id="463878" tvg-name="IN | NAT GEO WILD 4K HD" tvg-logo="https://seeklogo.com/images/N/nat-geo-wild-logo-CFB1305DCD-seeklogo.com.png",IN | NAT GEO WILD 4K HD [930 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246728.ts
+#EXTINF:-1 tvg-id="463878" tvg-name="IN | NAT GEO WILD Hindi HD" tvg-logo="https://seeklogo.com/images/N/nat-geo-wild-logo-CFB1305DCD-seeklogo.com.png",IN | NAT GEO WILD Hindi HD [931 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246727.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN | National GEO 4K HD" tvg-logo="http://webotv.asia:80/images/e990a04b9b6c0178d787ddc066e997b4.png",IN | National GEO 4K HD [932 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246740.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN | National GEO HD (hindi)" tvg-logo="https://seeklogo.com/images/N/National_Geographic-logo-A43277202F-seeklogo.com.png",IN | National GEO HD (hindi) [933 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246739.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ARY Music HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_musik.png",ARY Music HD [900 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/246686.ts
+#EXTINF:-1 tvg-id="None" tvg-name="EX-YU: Dobra Islamska HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",EX-YU: Dobra Islamska HD [12102 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302992.ts
+#EXTINF:-1 tvg-id="None" tvg-name="EX-YU: LOV I Ribolov HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d7d94b3c75f21569ce4c905a26dbb9da.png",EX-YU: LOV I Ribolov HD [12110 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303020.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="EX-YU: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a8a2402478eaf6149713e5faad06946.png",EX-YU: NAT GEO HD [12163 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303023.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="EX-YU: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3400587dd3c8901b1f37db760ded9f0b.png",EX-YU: NAT GEO WILD HD [12164 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303024.ts
+#EXTINF:-1 tvg-id="9175" tvg-name="UK: Racing TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6bfd35bd3d4c2f735e85a6ca1ad12ab5.png",UK: Racing TV HD [3370 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/495248.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: Bloomberg TV Europe HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/0237c580fbae246aa51adce9d68d624a.png",UK: Bloomberg TV Europe HD [3475 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/495464.ts
+#EXTINF:-1 tvg-id="9256" tvg-name="UK: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/525fe2486b5af4891ec9a91dd826290d.png",UK: NAT GEO HD [3561 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/495341.ts
+#EXTINF:-1 tvg-id="9547" tvg-name="UK: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f948b290a5db64efd6899586fb77810b.png",UK: NAT GEO WILD HD [3562 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/495342.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: HBO MAX Classic Documentary Cinema HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",UK: HBO MAX Classic Documentary Cinema HD [3300 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/495398.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: HBO MAX Documentary Cinema HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",UK: HBO MAX Documentary Cinema HD [3313 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/495411.ts
+#EXTINF:-1 tvg-id="None" tvg-name="Samaa TV (SD H264)" tvg-logo="",Samaa TV (SD H264) [3114 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957689.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: GEO TV (UK)" tvg-logo="https://s9.gifyu.com/images/SFpYL.png",UK: GEO TV (UK) [3199 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957784.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: MADANI CHANNEL (UK)" tvg-logo="https://s9.gifyu.com/images/SFprW.png",UK: MADANI CHANNEL (UK) [3200 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957775.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: GEO KAHANI" tvg-logo="https://s9.gifyu.com/images/SFpYS.png",UK: GEO KAHANI [3206 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957781.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: GEO NEWS" tvg-logo="https://s9.gifyu.com/images/SFbfE.png",UK: GEO NEWS [3207 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957782.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: GEO NEWS (UK)" tvg-logo="https://s9.gifyu.com/images/SFbfE.png",UK: GEO NEWS (UK) [3208 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957783.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: 92 NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/92-news-uk-uk.png",UK: 92 NEWS [3210 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957773.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: ARY DIGITAL" tvg-logo="https://s9.gifyu.com/images/SFpaf.png",UK: ARY DIGITAL [3220 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957795.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: SAMAA" tvg-logo="https://s9.gifyu.com/images/SFp5w.png",UK: SAMAA [3230 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957754.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: HUM NEWS" tvg-logo="https://s9.gifyu.com/images/SFpYC.png",UK: HUM NEWS [3231 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957755.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: HUM MASALA" tvg-logo="https://s9.gifyu.com/images/SFpYU.png",UK: HUM MASALA [3232 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957756.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: HUM TV EUROPE" tvg-logo="https://s9.gifyu.com/images/SFpYF.png",UK: HUM TV EUROPE [3233 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957757.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: PTV GLOBAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/ptv-world-int.png",UK: PTV GLOBAL [3235 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957760.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: URDU 1 EUROPE (UK)" tvg-logo="",UK: URDU 1 EUROPE (UK) [3236 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957771.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: ARY FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/ary-family-uk.png",UK: ARY FAMILY [3240 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957764.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: DUNYA NEWS" tvg-logo="https://s9.gifyu.com/images/SFbaG.png",UK: DUNYA NEWS [3241 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957765.ts
+#EXTINF:-1 tvg-id="None" tvg-name="UK: MATV NATIONAL" tvg-logo="https://s9.gifyu.com/images/SFpra.png",UK: MATV NATIONAL [3244 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/957768.ts
+#EXTINF:-1 tvg-id="AMG.TV.us2" tvg-name="US: AMG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/d518b75c50d150dadc8908c357edd46f.png",US: AMG TV HD [3619 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291027.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: Atlanta Georgia WATC TV 57 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/aa3bd933825be15d1c98a49bb8a889f6.png",US: Atlanta Georgia WATC TV 57 HD [3622 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291030.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: Georgia Hollywood Review TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",US: Georgia Hollywood Review TV HD [3645 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291054.ts
+#EXTINF:-1 tvg-id="Nat.Geo.Mundo.us2" tvg-name="US: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7a9fd08d12f6c76c620bcef76c1438c7.png",US: NAT GEO HD [4987 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291177.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: NAT GEO People HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/544369b664c3e09426694b64ad866975.png",US: NAT GEO People HD [4988 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291178.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: CW Philadelphia Pennsylvania WPSG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/45ad07e831b9e16434642352fc5392a2.jpg",US: CW Philadelphia Pennsylvania WPSG TV HD [5008 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291673.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: CW ST Petersburg Florida WTOG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/950c9922c2887f92912b80567a58267f.png",US: CW ST Petersburg Florida WTOG TV HD [5009 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291674.ts
+#EXTINF:-1 tvg-id="DOG.TV.us2" tvg-name="US: DOG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/873e7bf90507edd1036f9b0550ac66e7.png",US: DOG TV HD [5013 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291678.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: Peach TREE Atlanta Georgia WPCH TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/6f681cb01bfb3a81544ca6a3e63ea99c.png",US: Peach TREE Atlanta Georgia WPCH TV HD [5035 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291700.ts
+#EXTINF:-1 tvg-id="Nat.Geo.Mundo.us2" tvg-name="US: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fa9e9e44d448684c2043bbb9f38655ff.png",US: NAT GEO WILD HD [5056 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291721.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: ABC Atlanta Georgia WSB TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/2b1cdd05a1230dea88e1ae12bd83f0a3.png",US: ABC Atlanta Georgia WSB TV HD [3910 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291187.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: ABC Augusta Georgia WJBF TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/f5a1111a8c8dca96b44ecf36ad226825.png",US: ABC Augusta Georgia WJBF TV HD [3911 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291188.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: ABC Baltimore Maryland WMAR TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/ce75bf7823fc588e784d2d75b4c608c5.png",US: ABC Baltimore Maryland WMAR TV HD [3914 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291191.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: ABC LAS Vegas Nevada KTNV TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/aa2d841520da94b5d3ca9afc0cb7ba05.png",US: ABC LAS Vegas Nevada KTNV TV HD [3941 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291218.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: ABC Little ROCK Arkansas KATV TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/0ee72e53101a113a94f991b905b7dd8c.png",US: ABC Little ROCK Arkansas KATV TV HD [3942 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291219.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: ABC Miami Florida WPLG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/036ebef0609ee2428f53744a35f25022.png",US: ABC Miami Florida WPLG TV HD [3947 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291224.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: ABC Savannah Georgia WJCL 22 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/64935decae69e39b550555750622ff9d.jpg",US: ABC Savannah Georgia WJCL 22 HD [3963 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291240.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: ABC Toledo OHIO WTVG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/a599db20f900c1f99e963a780da06eb4.png",US: ABC Toledo OHIO WTVG TV HD [3969 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291246.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: Augusta Georgia WBPI CD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/54cb6438936c007da51614a32fd7e3d2.png",US: Augusta Georgia WBPI CD HD [3974 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291251.ts
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="US: Bloomberg TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a4867ed7564efb55bd7f5af1fd61c88e.png",US: Bloomberg TV HD [3976 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291253.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: CBS Atlanta Georgia WGCL TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/7dc99b20c11dcb864e9de1795dd59bcd.png",US: CBS Atlanta Georgia WGCL TV HD [3982 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291259.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: CBS Augusta Georgia WRDW TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8ff3c00965d183d08bf0e6e08afbe961.png",US: CBS Augusta Georgia WRDW TV HD [3983 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291260.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: CBS Baltimore Maryland WJZ TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/f2e8b2b3a8e3da5a87291e6a598eaf11.png",US: CBS Baltimore Maryland WJZ TV HD [3984 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291261.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: CBS Mobile Alabama WKRG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dc75c98bbff6a33fce557f4a6392ff6c.png",US: CBS Mobile Alabama WKRG TV HD [4027 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291304.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: CBS Orlando Florida WKMG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/610dfc8e2e6bd6066479296ef65848ff.png",US: CBS Orlando Florida WKMG TV HD [4037 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291314.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: FOX Atlanta Georgia WAGA TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/8fa6d7a1dbd41b5e8cd55e4ccacc9425.svg",US: FOX Atlanta Georgia WAGA TV HD [4064 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291341.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: FOX Baltimore Maryland WBFF HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4e9b6667b09b09b40a9647ed5c6c103a.png",US: FOX Baltimore Maryland WBFF HD [4067 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291344.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: FOX Washington District OF Columbia WTTG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/e59c1afae9046e117449fc96f3313247.svg",US: FOX Washington District OF Columbia WTTG TV HD [4130 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291407.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: NBC Atlanta Georgia WXIA TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/10b17e944d4d6882baded5d085719eb0.png",US: NBC Atlanta Georgia WXIA TV HD [4155 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291432.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: NBC Augusta Georgia WAGT CD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3877f5bcf4339741dad982a877f2b034.png",US: NBC Augusta Georgia WAGT CD HD [4156 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291433.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: NBC Baltimore Maryland WBAL TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/bb0631774eb144f8876e1622d412b044.png",US: NBC Baltimore Maryland WBAL TV HD [4159 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291436.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: NBC Columbus Georgia WLTZ HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9642e861a1b0b99b88fa8d71f00a5e5f.png",US: NBC Columbus Georgia WLTZ HD [4177 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291454.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: NBC Panama CITY Florida WJHG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a81732c491bfbc2360535be03f915542.png",US: NBC Panama CITY Florida WJHG TV HD [4224 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291502.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: NBC Savannah Georgia WSAV TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd68e5fa119291ba0482a10b4f287257.png",US: NBC Savannah Georgia WSAV TV HD [4239 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291517.ts
+#EXTINF:-1 tvg-id="None" tvg-name="US: NBC WEST PALM Beach Florida WPTV TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2cd25165fa321904c1f89598e988f580.png",US: NBC WEST PALM Beach Florida WPTV TV HD [4256 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291534.ts
+#EXTINF:-1 tvg-id="None" tvg-name="USA | ABC Las Vegas, NV KTNVⓧ" tvg-logo="",USA | ABC Las Vegas, NV KTNVⓧ [5189 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/909098.ts
+#EXTINF:-1 tvg-id="None" tvg-name="USA | ABC Little Rock, AR KATVⓧ" tvg-logo="",USA | ABC Little Rock, AR KATVⓧ [5192 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/909101.ts
+#EXTINF:-1 tvg-id="None" tvg-name="USA | NBC West Palm Beach, FL WPTVⓧ" tvg-logo="",USA | NBC West Palm Beach, FL WPTVⓧ [5475 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/909552.ts
+#EXTINF:-1 tvg-id="None" tvg-name="USA | FOX Portland, OR KPTVⓧ" tvg-logo="",USA | FOX Portland, OR KPTVⓧ [5406 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/909352.ts
+#EXTINF:-1 tvg-id="None" tvg-name="USA | NHL | Calgary Flames" tvg-logo="http://xplatinmedia.com:8080/images/322f23d8aeec35b9eccbcb9dfdbcb419.png",USA | NHL | Calgary Flames [5938 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/909931.ts
+#EXTINF:-1 tvg-id="None" tvg-name="USA | NHL Game 10: Edmonton Oilers vs Calgary Flames | Sat 27th Dec 10:00 PM ET" tvg-logo="http://xplatinmedia.com:8080/images/3a23a1542377d9ec3025ebc874c69f1a.png",USA | NHL Game 10: Edmonton Oilers vs Calgary Flames | Sat 27th Dec 10:00 PM ET [5947 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/909941.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ZA: Parliamentary Service HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/4f72d5f0f5b09149bae9b05c37ff5bed.png",ZA: Parliamentary Service HD [7483 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/290280.ts
+#EXTINF:-1 tvg-id="None" tvg-name="DE: Augsburg TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c097d346cb81a13a2c244251add4aa0e.png",DE: Augsburg TV HD [12000 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/293504.ts
+#EXTINF:-1 tvg-id="geotelevision.de" tvg-name="DE: GEO TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/a970020b74eb6222254ec1b380e8f69f.png",DE: GEO TV HD [12010 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/293514.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fda277026dd8335ac1b6a11449b61647.png",DE: NAT GEO HD [12060 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/293564.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c344750df844e52566025f42daf2f813.png",DE: NAT GEO WILD HD [12061 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/293565.ts
+#EXTINF:-1 tvg-id="CTV.Calgary.HD.ca2" tvg-name="CA: CTV Calgary HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/6a23585c77d577bed549a5ec5fe325f1.png",CA: CTV Calgary HD [5994 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/290788.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CA: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1a1f5bef159f74abd349b746d3c592d2.png",CA: NAT GEO HD [6077 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/290848.ts
+#EXTINF:-1 tvg-id="CBC.Calgary.HD.ca2" tvg-name="CA: CBC Calgary CBRT DT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/58e257b26be174adbb29e6b9dfadd1d9.jpeg",CA: CBC Calgary CBRT DT HD [6080 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/290659.ts
+#EXTINF:-1 tvg-id="Global.Calgary.HD.ca2" tvg-name="CA: Global TV Calgary HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/0d91c3ac4fce0ec98c14f7f516c84a27.png",CA: Global TV Calgary HD [6103 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/290683.ts
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="FR: MGG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/de840737619b61dc03062621e01e4ca3.png",FR: MGG TV HD [10996 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302045.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="FR: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/68d809c9589d34424c06003f941b186d.png",FR: NAT GEO HD [11105 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/301852.ts
+#EXTINF:-1 tvg-id="None" tvg-name="FR: Clubbing TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1900e004a910c807daec93784b15bee.png",FR: Clubbing TV HD [11165 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302127.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="FR: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3f408995121c2952c38014d30cac1a6a.png",FR: NAT GEO WILD HD [11193 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/301947.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="IT: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4dcc7772f88e74b3b7f35f49811ec300.png",IT: NAT GEO HD [11625 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/293270.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IT: Italian Fishing TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/b27427949d3b52bad1307f1d919be43d.png",IT: Italian Fishing TV HD [11701 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/293207.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="IT: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d5b282a5217e4a6c42bdc7221f5687f6.png",IT: NAT GEO WILD HD [11702 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/293208.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="IT: Bloomberg TV 4K HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/be814c4e5b85e42629defde0ae040344.png",IT: Bloomberg TV 4K HD [11705 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/293200.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BR: BET Being MARY JANE HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",BR: BET Being MARY JANE HD [10132 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304138.ts
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="BR: CaTVe HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/4ba36880b3fbdf3758c90ad1b79ecdfc.jpg",BR: CaTVe HD [10137 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304143.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BR: Conmebol 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/772da3266b9a007bf2767169c6ef82e4.png",BR: Conmebol 1 HD [10138 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304144.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BR: Conmebol 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c66ee65ee9a5c12d090a931483e0756b.png",BR: Conmebol 2 HD [10139 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304145.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BR: Conmebol 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/ed6a44b88febd29c02e6bc85484d7dae.png",BR: Conmebol 3 HD [10140 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304146.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BR: Conmebol 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/ae2d9df7ebb5cc9afc3fa74257eee65b.png",BR: Conmebol 4 HD [10141 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304147.ts
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="BR: EPTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/607e76c5951836d6679fd041c25b0889.jpg",BR: EPTV HD [10142 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304148.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BR: Globo EPTV SAO Carlos HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/005b80f06ae6c95ddc7aaa95ba3aefb2.jpg",BR: Globo EPTV SAO Carlos HD [10143 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304149.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="BR: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/17bdba6f29d02a26d662d201e5804c35.png",BR: NAT GEO HD [10213 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304225.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BR: Globo EPTV Campinas HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/a650d234de959df33510fee28a84e093.png",BR: Globo EPTV Campinas HD [10265 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304240.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BR: Globo EPTV Ribeirao Preto HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/00dd9cc1f511d4ffb4ede8250f3053a9.png",BR: Globo EPTV Ribeirao Preto HD [10266 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304241.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="BR: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/2ffcbd5676076e9ba265226e0d30b4ec.png",BR: NAT GEO WILD HD [10319 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304227.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="BR: NAT GEO KIDS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/ac4be9cbe3d27492dde3ab5bc37100b2.png",BR: NAT GEO KIDS HD [10341 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304206.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ES: PTV Cordoba HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/5bd3712cb5dff175468a969e21ab67e3.jpg",ES: PTV Cordoba HD [11309 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/292824.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="ES: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png",ES: NAT GEO HD [11350 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/292851.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="ES: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e3b9d45a12bb5904d2de532e80d45214.png",ES: NAT GEO WILD HD [11441 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/292960.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="ES: Bloomberg TV EMEA LIVE Event HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/376757098c4f911e9242316d025d3756.png",ES: Bloomberg TV EMEA LIVE Event HD [11443 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/292963.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ES: Bloomberg TV Europe HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/f1b59bb4c905f7d7a6ac45525311004f.png",ES: Bloomberg TV Europe HD [11444 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/292964.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="TR: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50248dfe48a3f0f7319c05a7da2eab69.png",TR: NAT GEO HD [9259 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316964.ts
+#EXTINF:-1 tvg-id="None" tvg-name="TR: ATV Alanya HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/c2548469c208d52e124748f4b3b84858.jfif",TR: ATV Alanya HD [9269 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316994.ts
+#EXTINF:-1 tvg-id="atv.at" tvg-name="TR: ATV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/69f2d05081701e62d382efdeadb96438.png",TR: ATV HD [9318 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317203.ts
+#EXTINF:-1 tvg-id="None" tvg-name="TR: ATV Avrupa HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/61372998d54bb2d61364dd891c78c990.png",TR: ATV Avrupa HD [9319 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317204.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="TR: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/56d97c6609cc66e0b37f2839505118d5.png",TR: NAT GEO WILD HD [9357 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316976.ts
+#EXTINF:-1 tvg-id="taraftv.ro" tvg-name="TR: ATV PARA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/6c60fb759c696e9787f396212ba5565e.jpg",TR: ATV PARA HD [9363 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317243.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="FI: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/67073f806bf3ae269795a968989693b5.png",FI: NAT GEO WILD HD [7728 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317824.ts
+#EXTINF:-1 tvg-id="tvg2.us" tvg-name="NO: VG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/165e39d65d2f71fe45f557f4b926d60e.png",NO: VG TV HD [8091 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/333254.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="NO: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9e0991115ea1489b703ed29eec7f5365.png",NO: NAT GEO HD [8093 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/333257.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="NO: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a44ae0c7054790ee5393a6b87be73909.png",NO: NAT GEO WILD HD [8094 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/333258.ts
+#EXTINF:-1 tvg-id="cmorefotboll.se" tvg-name="SE: C MORE Fotboll HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/c2e442a7139731381a615f7b0815d7cb.png",SE: C MORE Fotboll HD [7909 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/333083.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="SE: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bb7b8711a99482843f6e233e25cb9e44.png",SE: NAT GEO HD [7954 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/333115.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="SE: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0b9439d6d1087106fca437d51fb513ba.png",SE: NAT GEO WILD HD [7955 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/333116.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DK: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d6041d30f74716325815520539819d1c.png",DK: NAT GEO HD [8036 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/333186.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DK: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ecbfd20148c8ea8fb49c1d5bdcd7daca.png",DK: NAT GEO WILD HD [8037 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/333187.ts
+#EXTINF:-1 tvg-id="A.Bola.TV.HD.pt" tvg-name="PT: A BOLA TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f56b8e30125f68fe1d3ed3274e461134.png",PT: A BOLA TV HD [9422 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316897.ts
+#EXTINF:-1 tvg-id="DOGTV.pt" tvg-name="PT: DOG TV HD" tvg-logo="",PT: DOG TV HD [9433 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316908.ts
+#EXTINF:-1 tvg-id="Sporting.TV.HD.pt" tvg-name="PT: Sporting TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png",PT: Sporting TV HD [9483 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316808.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PT: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/574bf954a7d9977135a11aea5a17102d.png",PT: NAT GEO HD [9546 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316794.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PT: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png",PT: NAT GEO WILD HD [9547 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316795.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="GR: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/3a6890d09f06711b6340f8ca8666cd29.png",GR: NAT GEO HD [9843 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316338.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="GR: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db133939dc207e29ad2cef4f8a3e7a6a.png",GR: NAT GEO WILD HD [9844 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316339.ts
+#EXTINF:-1 tvg-id="None" tvg-name="GR | National Geographic HD" tvg-logo="",GR | National Geographic HD [13949 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/500042.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="GR: NAT GEO WILD HD" tvg-logo="",GR: NAT GEO WILD HD [14038 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/500131.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="MX: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ec252b9c1be69a68011aa7653391d25c.png",MX: NAT GEO HD [9592 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316764.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="MX: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/c9a82319842abff334dec0a59ef9c3c1.png",MX: NAT GEO WILD HD [9593 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316765.ts
+#EXTINF:-1 tvg-id="tvg2.us" tvg-name="MX: RCG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/500027ad173d08a327be172e7f5e7c2a.png",MX: RCG TV HD [9599 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316771.ts
+#EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="PL: NAT GEO People HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/84d273256ce861d31dbe7c3df444e1c0.png",PL: NAT GEO People HD [9984 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316209.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="PL: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3e07007a40c8cfbb9b1f3da67edc37a.png",PL: NAT GEO HD [10086 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316125.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="PL: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ac4845bdac7ba84eed8649971e472708.png",PL: NAT GEO WILD HD [10087 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316126.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="CH: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/088d5b2df426f74f42188ca9d5cd6eb2.png",CH: NAT GEO HD [9925 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/315999.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="CH: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/84dfb87e522df8221cdd3a3d07e89214.png",CH: NAT GEO WILD HD [9926 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/316000.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="NL: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bc00af729a5e1c577361ae06ebba02dd.png",NL: NAT GEO HD [10850 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303701.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="NL: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/87b97295a8979f02e78e291c0dc601d6.png",NL: NAT GEO WILD HD [10899 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303613.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AR: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/328ef8fd8fe32d22360a1c04b0f79552.jpg",AR: NAT GEO HD [6547 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/506478.ts
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="MBC Bollywood SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/74467654971.png",MBC Bollywood SD [6596 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/833460.ts
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="MBC Bollywood 4K HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/44293701121.png",MBC Bollywood 4K HD [6597 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/833459.ts
+#EXTINF:-1 tvg-id="None" tvg-name="National Geographic WILD HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/26682704261.png",National Geographic WILD HD [6668 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/833519.ts
+#EXTINF:-1 tvg-id="None" tvg-name="National Geographic People HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/56909639571.png",National Geographic People HD [6669 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/833518.ts
+#EXTINF:-1 tvg-id="None" tvg-name="NAT GEO WILD HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/63371104361.png",NAT GEO WILD HD [6670 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/833517.ts
+#EXTINF:-1 tvg-id="None" tvg-name="NAT GEO People HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/13523147921.png",NAT GEO People HD [6671 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/833516.ts
+#EXTINF:-1 tvg-id="None" tvg-name="Bein National Geographic HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/30769832241.png",Bein National Geographic HD [6684 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/833351.ts
+#EXTINF:-1 tvg-id="None" tvg-name="Bein HG TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/14821532041.png",Bein HG TV HD [6685 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/833349.ts
+#EXTINF:-1 tvg-id="None" tvg-name="Bein National Geographic HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/51635842381.png",Bein National Geographic HD [6691 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/833352.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PUN || BOOGLE BOLLYWOOD HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBQSs94j433yLRCu8eEcgt1BNo4-SNItiOBPMIRNRFHzYGDRP2Z4VitBFJTGu3wsa4g.png",PUN || BOOGLE BOLLYWOOD HD [2218 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955591.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN |   Haryanvi Hits" tvg-logo="",IN |   Haryanvi Hits [2235 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955631.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PUN || APNA PUNJAB" tvg-logo="",PUN || APNA PUNJAB [2253 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955561.ts
+#EXTINF:-1 tvg-id="441310" tvg-name="PUN || NEWS 18 PUNJAB/HARYANA/HIMACHAL" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxAl4hP1FV2xqaEvnEsv8tedcq2Sh0sPsvqt1qSLjHoCU.png",PUN || NEWS 18 PUNJAB/HARYANA/HIMACHAL [2257 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955565.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN | Trucking TV (punjabi)" tvg-logo="",IN | Trucking TV (punjabi) [2294 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/818650.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN | Apna Punjab (punjabi)" tvg-logo="http://iptv.4ktezz.top:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png",IN | Apna Punjab (punjabi) [2307 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/818662.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN-tm | D2H NAT GEO FHD" tvg-logo="https://rolextv.one:443/images/Gb4eVgOeIeTeutfsdD1m4jDPYWaIi3jb720sLVqqHux0wLLaJk-m9tnPapiE36hnuokNcAfPrsMob-mRC0c4Ak5IThBlSxMZYR01sB5WFyNOF_3XEWM8MhHHI9K8uwiEbfOvLFvv93ZyCucJBBWfnvYutUCGp7cTS1Qe_1xfydQ.png",IN-tm | D2H NAT GEO FHD [2409 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/520319.ts
+#EXTINF:-1 tvg-id="463878" tvg-name="IN-tm | D2H NAT GEO WILD FHD" tvg-logo="https://rolextv.one:443/images/Gb4eVgOeIeTeutfsdD1m4jDPYWaIi3jb720sLVqqHux0wLLaJk-m9tnPapiE36hnuokNcAfPrsMob-mRC0c4Ak5IThBlSxMZYR01sB5WFyNOF_3XEWM8MhHHI9K8uwiEbfOvLFvv93ZyCucJBBWfnvYutUCGp7cTS1Qe_1xfydQ.png",IN-tm | D2H NAT GEO WILD FHD [2410 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/520320.ts
+#EXTINF:-1 tvg-id="464109" tvg-name="Mathrubhumi News ᴴᴰ" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO4929VChsTn8jJYgYjaf0xiGsibB3NrcGrqhm21dr6Q4FqJ7ptM180XtgCzRclUtc-zg.png",Mathrubhumi News ᴴᴰ [2322 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955285.ts
+#EXTINF:-1 tvg-id="None" tvg-name="National GEO ᴴᴰ" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49_wwAsaZiU23_PKlIOLY2dqxaRr5xIKuJu7Y_ombBGnd.png",National GEO ᴴᴰ [2498 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955326.ts
+#EXTINF:-1 tvg-id="463835" tvg-name="IN-tg | D2H National Geographics FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGekQesAYZaB2eRNlSmDT6OKbjnso7hIsutqNjuaaJB0A.png",IN-tg | D2H National Geographics FHD [2537 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/520374.ts
+#EXTINF:-1 tvg-id="463878" tvg-name="IN-tg | D2H NAT GEO WILD FHD" tvg-logo="https://rolextv.one:443/images/Gb4eVgOeIeTeutfsdD1m4jDPYWaIi3jb720sLVqqHux0wLLaJk-m9tnPapiE36hnuokNcAfPrsMob-mRC0c4Ak5IThBlSxMZYR01sB5WFyNOF_3XEWM8MhHHI9K8uwiEbfOvLFvv93ZyCucJBBWfnvYutUCGp7cTS1Qe_1xfydQ.png",IN-tg | D2H NAT GEO WILD FHD [2538 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/520375.ts
+#EXTINF:-1 tvg-id="None" tvg-name="National GEO ᴴᴰ" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49_wwAsaZiU23_PKlIOLY2dqxaRr5xIKuJu7Y_ombBGnd.png",National GEO ᴴᴰ [2597 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955361.ts
+#EXTINF:-1 tvg-id="None" tvg-name="National GEO ᴴᴰ" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49_wwAsaZiU23_PKlIOLY2dqxaRr5xIKuJu7Y_ombBGnd.png",National GEO ᴴᴰ [2660 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955394.ts
+#EXTINF:-1 tvg-id="464208" tvg-name="Dhoom Music" tvg-logo="",Dhoom Music [2663 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955397.ts
+#EXTINF:-1 tvg-id="464208" tvg-name="BAN || Dhoom Music HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxRWrQ1-oGBmxLEY3uAaZQkw.jpg",BAN || Dhoom Music HD [2700 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/522624.ts
+#EXTINF:-1 tvg-id="495110" tvg-name="BAN || Channel 24 HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBbz5qPqX4roezfNBcxasLMhuxwvLU-Je3m0BaFacUZGb.png",BAN || Channel 24 HD [2731 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/522656.ts
+#EXTINF:-1 tvg-id="463956" tvg-name="IN-ori | Tarang TV HD" tvg-logo="https://www.tarangtv.in/taranglogo.png",IN-ori | Tarang TV HD [2574 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/519939.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BGD_CHANNEL 24 HD" tvg-logo="",BGD_CHANNEL 24 HD [2922 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1369523.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BGD_MADANI TV" tvg-logo="",BGD_MADANI TV [2923 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1369524.ts
+#EXTINF:-1 tvg-id="464208" tvg-name="BAN || DHOOM MUSIC" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxRWrQ1-oGBmxLEY3uAaZQkw.jpg",BAN || DHOOM MUSIC [2794 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/911084.ts
+#EXTINF:-1 tvg-id="None" tvg-name="Madani Channel Bangladesh" tvg-logo="",Madani Channel Bangladesh [2803 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/911163.ts
+#EXTINF:-1 tvg-id="495110" tvg-name="BAN || CHANNEL 24 HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBbz5qPqX4roezfNBcxasLMhuxwvLU-Je3m0BaFacUZGb.png",BAN || CHANNEL 24 HD [2828 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/911108.ts
+#EXTINF:-1 tvg-id="495110" tvg-name="Channel 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e1c97d6ff3124e768a00ffe0e6252ff8.png",Channel 24 [2879 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/819516.ts
+#EXTINF:-1 tvg-id="464208" tvg-name="Dhoom Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-07/346a2c31c0bb7512a0241f5ab3fb5b01.png",Dhoom Music [2887 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/819524.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="PH: Bloomberg TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/bf74ed1331c9f4c7190a9e2a13881e2d.png",PH: Bloomberg TV HD [2939 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/290859.ts
+#EXTINF:-1 tvg-id="None" tvg-name="PH: CGTN Documentary HD" tvg-logo="",PH: CGTN Documentary HD [2942 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/290862.ts
+#EXTINF:-1 tvg-id="tvp.pl" tvg-name="PH: PTV HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",PH: PTV HD [2970 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/290893.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ID: Bandung TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png",ID: Bandung TV HD [13581 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302211.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ID: CGTN Documentary HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png",ID: CGTN Documentary HD [13594 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302224.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ID: HUMA Betang TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/06da81eac8b78bcc95cff8e173d9ca07.png",ID: HUMA Betang TV HD [13628 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302258.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ID: Padang TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/eb14737d742919bfde6ea9747298a305.jpeg",ID: Padang TV HD [13661 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302293.ts
+#EXTINF:-1 tvg-id="utv.ro" tvg-name="ID: UG TV HD" tvg-logo="",ID: UG TV HD [13688 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302323.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="ID: Bloomberg TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png",ID: Bloomberg TV HD [13702 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/501232.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="ID: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png",ID: NAT GEO HD [13734 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/501265.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="ID: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png",ID: NAT GEO WILD HD [13735 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/501266.ts
+#EXTINF:-1 tvg-id="atv.at" tvg-name="ID: TATV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ID: TATV HD [13746 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/501277.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AFG: Dunya NAW HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e12444d15a34879861b8f8137b351f5.png",AFG: Dunya NAW HD [7042 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/333330.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="CZ: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b23401197bd1cff14eb3665427af8e52.png",CZ: NAT GEO HD [7770 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/332976.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="CZ: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d1fa6297b43fef8c81ecbb0d5377a5a8.png",CZ: NAT GEO WILD HD [7825 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/333021.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AE: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3bc28e40a7cd3e3884791e4683cb4fe1.png",AE: NAT GEO HD [6834 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/296226.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AE: NAT GEO ABU Dhabi HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aed96fed009fe08e028754a7160168a8.png",AE: NAT GEO ABU Dhabi HD [6835 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/296227.ts
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="AE: MBC Bollywood HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f2da4e8a4cf87e2f2c167ad02f79be0e.png",AE: MBC Bollywood HD [6847 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/296266.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AE: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/84a5e402fa87824ee22baa68a77f7c3c.png",AE: NAT GEO WILD HD [6917 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/296253.ts
+#EXTINF:-1 tvg-id="None" tvg-name="YE: Yemen Documentary HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/175026646104b21590c2968e5c833bdf.png",YE: Yemen Documentary HD [6950 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/296106.ts
+#EXTINF:-1 tvg-id="None" tvg-name="KW: ATV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5a01c22e5275b33a7f8f1d7cb5d59482.png",KW: ATV HD [7000 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/296162.ts
+#EXTINF:-1 tvg-id="None" tvg-name="LY: February HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e01158f5497e4e9aef5a467960f21852.png",LY: February HD [12263 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/296082.ts
+#EXTINF:-1 tvg-id="None" tvg-name="KSa_saudi Quran HD" tvg-logo="",KSa_saudi Quran HD [7160 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/516674.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IRn_gem Bollywood HD" tvg-logo="",IRn_gem Bollywood HD [7081 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/516513.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IRn_gem Documentary HD" tvg-logo="",IRn_gem Documentary HD [7131 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/516573.ts
+#EXTINF:-1 tvg-id="None" tvg-name="EG: ATV SAT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/6cffdb81400cfefcd3fa6d18ff194bb9.jpg",EG: ATV SAT HD [12392 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302417.ts
+#EXTINF:-1 tvg-id="None" tvg-name="EG: Quran Kareem HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/0b034f686eb86898549693174ade464f.png",EG: Quran Kareem HD [12452 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302477.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="ARG: Bloomberg TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/991709e1a4f3008ac4bbe507ace497d3.png",ARG: Bloomberg TV HD [12624 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303065.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="ARG: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/75e48322567d65f1f20b24133b57315b.png",ARG: NAT GEO WILD HD [12737 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303178.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ARG: Pakapaka HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/c1c7b94176832edee909922ce2f0e1ba.png",ARG: Pakapaka HD [12744 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303185.ts
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="IRAN | Barya TV HD" tvg-logo="",IRAN | Barya TV HD [12953 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499852.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IRAN | GEM Bollywood HD" tvg-logo="",IRAN | GEM Bollywood HD [12962 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499861.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IRAN | Navahang TV HD" tvg-logo="",IRAN | Navahang TV HD [13007 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499906.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IRAN | Persiana Documentary HD" tvg-logo="",IRAN | Persiana Documentary HD [13022 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499921.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IRAN | Rangarang TV HD" tvg-logo="",IRAN | Rangarang TV HD [13036 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499935.ts
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="IR | HADI TV 3 HD" tvg-logo="",IR | HADI TV 3 HD [13051 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499950.ts
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="IR | HADI TV 4 HD" tvg-logo="",IR | HADI TV 4 HD [13052 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499951.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IR | HADI TV 6 HD" tvg-logo="",IR | HADI TV 6 HD [13078 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499977.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="LA: Bloomberg TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7094f593037f91cf19b48829152f7412.png",LA: Bloomberg TV HD [13140 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303258.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="LA: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/04e8a37535a0c55f5ca45ab0a15854a7.png",LA: NAT GEO HD [13257 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303381.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="LA: NAT GEO KIDS HD" tvg-logo="",LA: NAT GEO KIDS HD [13258 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303382.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="LA: NAT GEO Mundo HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b6c489ce95abda2c6ed7c4fd52ec311e.png",LA: NAT GEO Mundo HD [13259 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303383.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="LA: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6571f8f4e51ded8b78e6028593640aee.png",LA: NAT GEO WILD HD [13260 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303384.ts
+#EXTINF:-1 tvg-id="None" tvg-name="LA: Univision Athens Georgia WUVG TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/7660c3017d1c020dc751862eca987003.png",LA: Univision Athens Georgia WUVG TV HD [13346 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303470.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CN: Bloomberg TV ASIA Pacific (english) HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/7ec7d3f183941f7132b501278bd44d45.png",CN: Bloomberg TV ASIA Pacific (english) HD [13462 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302329.ts
+#EXTINF:-1 tvg-id="None" tvg-name="CN: CGTN Documentary HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b0c3f5c87e88102dea9d98d7028b8aa5.png",CN: CGTN Documentary HD [13471 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302338.ts
+#EXTINF:-1 tvg-id="None" tvg-name="TH: PPTV HD 36" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/34f358d96176050cc8c454bc86da97c2.svg",TH: PPTV HD 36 [13559 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302726.ts
+#EXTINF:-1 tvg-id="None" tvg-name="VN: DA NANG TV 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/95dae3bffb2fb5d2e1880c5fa3b24282.jpg",VN: DA NANG TV 1 HD [13784 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302767.ts
+#EXTINF:-1 tvg-id="None" tvg-name="VN: DA NANG TV 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/1e246e32cba2a29a5f9a6f414f5fc7ad.webp",VN: DA NANG TV 2 HD [13785 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302768.ts
+#EXTINF:-1 tvg-id="None" tvg-name="VN: Hmong TV Network HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/cc0926397b35e4ab10fa9a02df604cbe.jfif",VN: Hmong TV Network HD [13790 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302773.ts
+#EXTINF:-1 tvg-id="None" tvg-name="VN: LOOK Thoong TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/099ff20fdb95f11b5304af5d37418098.jfif",VN: LOOK Thoong TV HD [13807 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302791.ts
+#EXTINF:-1 tvg-id="None" tvg-name="VN: NING TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/12ecafc1f286098b95d0cee4c7d2f829.jfif",VN: NING TV HD [13810 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302794.ts
+#EXTINF:-1 tvg-id="None" tvg-name="VN: TIEN Giang TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/090f20205b435f9309bbe6c3e26ecc0b.png",VN: TIEN Giang TV HD [13816 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302800.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="CO: NAT GEO HD" tvg-logo="",CO: NAT GEO HD [13881 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302940.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="CO: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/5f2dbbe8d8a29a698d9aaed52654847b.png",CO: NAT GEO WILD HD [13882 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302941.ts
+#EXTINF:-1 tvg-id="Bloomberg.sa" tvg-name="Bloomberg TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ec89c41eacd0848bebcc1c722cb692aa.png",Bloomberg TV [6718 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/890074.ts
+#EXTINF:-1 tvg-id="None" tvg-name="Aljazeera Documentary" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/39a582ae47a82b73e5541bdbb4f823a5.png",Aljazeera Documentary [6766 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/890079.ts
+#EXTINF:-1 tvg-id="None" tvg-name="NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/55575a27c4642dbaf8b015fc59257d2b.png",NAT GEO [6789 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/890083.ts
+#EXTINF:-1 tvg-id="None" tvg-name="NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fee54ff84b28d06ce00c70570b2571f9.png",NAT GEO Wild [6790 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/890084.ts
+#EXTINF:-1 tvg-id="None" tvg-name="RS: LOV I Ribolov HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c89f9d04554604311a56430fd70f5da5.png",RS: LOV I Ribolov HD [8782 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317528.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="RS: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/47c824d96c25ee74c0f81296c3d2c065.png",RS: NAT GEO HD [8783 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317529.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="RS: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/84926dfdd209c787387dbbd325be24ba.png",RS: NAT GEO WILD HD [8784 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317530.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="BG: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/32d9484e63dbb07887c08c71ef151af4.png",BG: NAT GEO HD [8179 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/318209.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="BG: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e373072b6f192ac552d3d95c6e7349ed.png",BG: NAT GEO WILD HD [8180 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/318210.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="BG: Bloomberg TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9b46e06e6b2c4f06b23e8560d02c60e5.jpg",BG: Bloomberg TV HD [8184 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/318214.ts
+#EXTINF:-1 tvg-id="None" tvg-name="HR: LOV I Ribolov HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/408ea7de15df2ad7d91ea22241d63e28.png",HR: LOV I Ribolov HD [8914 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317342.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="HR: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/330b3b21ad24d9696ead334dba4eee0c.png",HR: NAT GEO WILD HD [8915 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317343.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="HU: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0d647411a0c7d5ba7b73b1194bbc5d9f.png",HU: NAT GEO HD [8277 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/318268.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="HU: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c3cdd713de8c6f4f64ff8841cf81504d.png",HU: NAT GEO WILD HD [8297 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/318362.ts
+#EXTINF:-1 tvg-id="atv.at" tvg-name="HU: ATV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8c240f4e74e09447de1e4a754549071d.png",HU: ATV HD [8299 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/318317.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="BE: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/fc25a1854abbc94a01f2c90f00896c6a.png",BE: NAT GEO HD [12497 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317622.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="BE: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f76964375c9d1dafdb14a8fbc434573c.png",BE: NAT GEO WILD HD [12498 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317623.ts
+#EXTINF:-1 tvg-id="None" tvg-name="RU: 1tulaTV (Первый Тульский) HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/47c5745fd28e197646668e17f0d01b06.jpg",RU: 1tulaTV (Первый Тульский) HD [8320 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317998.ts
+#EXTINF:-1 tvg-id="None" tvg-name="RU: Telekanal Futbol (Футбол) HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/78555575fcb58cf51bdb779471ce4323.png",RU: Telekanal Futbol (Футбол) HD [8405 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/318083.ts
+#EXTINF:-1 tvg-id="None" tvg-name="RU: Match! Futbol 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f2d1e7b99a662db16b7b660e38b8dd8d.png",RU: Match! Futbol 1 HD [8473 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317841.ts
+#EXTINF:-1 tvg-id="None" tvg-name="RU: Match! Futbol 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b0cea95d70385f91747b4d49b92e79a1.png",RU: Match! Futbol 2 HD [8474 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317842.ts
+#EXTINF:-1 tvg-id="None" tvg-name="RU: Match! Futbol 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4a6696a9ea5c1cdedcad98fff840dd2f.png",RU: Match! Futbol 3 HD [8475 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317843.ts
+#EXTINF:-1 tvg-id="449068" tvg-name="RU: RT Documentary HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/bfed89d2ca4fba987f5f9959ccc7ee02.png",RU: RT Documentary HD [8495 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317851.ts
+#EXTINF:-1 tvg-id="6700" tvg-name="RU: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cf114374f105e36bfb5dcd82c0def630.png",RU: NAT GEO HD [8582 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317874.ts
+#EXTINF:-1 tvg-id="6700" tvg-name="RU: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e61f884c01a6009b322db9abfc1cc06.png",RU: NAT GEO WILD HD [8583 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317875.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AL: 8OVA Humor HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",AL: 8OVA Humor HD [10359 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303713.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AL: MetiTV Humor HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",AL: MetiTV Humor HD [10443 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303797.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="AL: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",AL: NAT GEO WILD HD [10453 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303807.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AL: RTV Islam HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/21baa2e87813273da6e0bb0f6df6b094.png",AL: RTV Islam HD [10488 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303842.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="AL: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/a03f99967979ee5b44560a41b66fd0ee.png",AL: NAT GEO HD [10594 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/304128.ts
+#EXTINF:-1 tvg-id="atv.at" tvg-name="AL: ATV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/fc491afbd5e05e744fa0d4d257780b36.png",AL: ATV HD [10721 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/303914.ts
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="AR: MBC BOLLYWOOD HD" tvg-logo="http://137.74.40.152/Categories.Logo/MBC.png",AR: MBC BOLLYWOOD HD [6245 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/908694.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AR: MBC GEO 1 HD" tvg-logo="http://137.74.40.152/Categories.Logo/MBC.png",AR: MBC GEO 1 HD [6251 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/908697.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AR: MBC GEO 2 HD" tvg-logo="http://137.74.40.152/Categories.Logo/MBC.png",AR: MBC GEO 2 HD [6252 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/908698.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AR: NABLUS QURAN TV" tvg-logo="http://137.74.40.152/Categories.Logo/PALASTIN.png",AR: NABLUS QURAN TV [6288 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/908874.ts
+#EXTINF:-1 tvg-id="None" tvg-name="KSA_SAUDI QURAN HD" tvg-logo="",KSA_SAUDI QURAN HD [4569 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1369759.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AR: NIDAE ALISLAM RADIO TV" tvg-logo="http://137.74.40.152/Categories.Logo/SAUDI.png",AR: NIDAE ALISLAM RADIO TV [6335 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/908806.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AR: QURAN RADIO TV" tvg-logo="http://137.74.40.152/Categories.Logo/SAUDI.png",AR: QURAN RADIO TV [6336 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/908803.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AR: ATV 4K" tvg-logo="http://137.74.40.152/Categories.Logo/KUWAIT.png",AR: ATV 4K [6388 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/908846.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AR: AL JAZEERA DOCUMENTARY" tvg-logo="",AR: AL JAZEERA DOCUMENTARY [6405 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/908711.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AR: ANGHAMI GeorgeWassof 4K" tvg-logo="",AR: ANGHAMI GeorgeWassof 4K [6440 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/908760.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BLOOMBERG TV (HD)" tvg-logo="https://i.pinimg.com/236x/cf/13/8f/cf138fb7b1c7c8e9bcfddd21b0b3be13.jpg",BLOOMBERG TV (HD) [32 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/955626.ts
+#EXTINF:-1 tvg-id="464109" tvg-name="IN: Mathrubhumi NEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/123a158b16c60c67026dbbd608850123.png",IN: Mathrubhumi NEWS HD [2019 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/497263.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN-NEWS | TV9 Bharatvarsh HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNoFg_v_yUmuMPQiQnIIJp93wqZMySSXKGw&s",IN-NEWS | TV9 Bharatvarsh HD [2053 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1339659.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN | TS NatGeo Wild Hindi FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Republic-TV.png",IN | TS NatGeo Wild Hindi FHD [2084 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1339690.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN-NEWS | D2H News18 Urdu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Urdu.png",IN-NEWS | D2H News18 Urdu [2103 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1339709.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN-NEWS | EXPRESS NEWS BHARAT" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Express-News-Bharat.png",IN-NEWS | EXPRESS NEWS BHARAT [2112 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1339718.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN-NEWS | FD Bharat Express" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Surya-Samachar.png",IN-NEWS | FD Bharat Express [2115 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1339721.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN-NEWS | FD TV9 Bharatvarsh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV9-Bharatvarsh.png",IN-NEWS | FD TV9 Bharatvarsh [2129 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1339735.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN-NEWS | TS DD Urdu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-India.png",IN-NEWS | TS DD Urdu [2167 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1339773.ts
+#EXTINF:-1 tvg-id="None" tvg-name="IN-NEWS | TS TV9 BharaTVarsh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Har-Ghar-Startup.png",IN-NEWS | TS TV9 BharaTVarsh [2197 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/1339846.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="RO: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/cb8b055eecbdcfd97b524cfa64c5e495.png",RO: NAT GEO HD [9006 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317682.ts
+#EXTINF:-1 tvg-id="bollywoodclasic.ro" tvg-name="RO: Bollywood Classic HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/9a42c17795bd75e3576c5aa4ef112ff3.jpg",RO: Bollywood Classic HD [9014 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317760.ts
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="RO: Bollywood HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/df0b0361359eb84bee0045617ad1e370.png",RO: Bollywood HD [9034 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317759.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="RO: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/7c1b14f0b36c27d31e7977e3621552e8.png",RO: NAT GEO WILD HD [9069 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/317751.ts
+#EXTINF:-1 tvg-id="None" tvg-name="BIH: LOV I Ribolov HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/5e826b8e6c5dd5eecbd55cba5cb95de5.png",BIH: LOV I Ribolov HD [12211 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302852.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="BIH: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/f7af67dc378842c32a19e8fb0cb27473.png",BIH: NAT GEO HD [12215 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302856.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="BIH: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/dd26455a68322149c38ec434e2d6e0d6.png",BIH: NAT GEO WILD HD [12216 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/302857.ts
+#EXTINF:-1 tvg-id="None" tvg-name="AU: Bloomberg TV Australia HD" tvg-logo="",AU: Bloomberg TV Australia HD [7710 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/499753.ts
+#EXTINF:-1 tvg-id="None" tvg-name="10 Bold" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/0f547b7d6b6c61e631c39a414f10ae48.png",10 Bold [7545 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/819545.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="Bloomberg TV Asia Live Event" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",Bloomberg TV Asia Live Event [7568 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/819574.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="Bloomberg TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/046b2aecb1e36f6971daaf52345c30c9.png",Bloomberg TV [7569 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/819573.ts
+#EXTINF:-1 tvg-id="None" tvg-name="VIP: ASIAN SEX DIARY" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif",VIP: ASIAN SEX DIARY [15081 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/818478.ts
+#EXTINF:-1 tvg-id="None" tvg-name="SutraTV Nubile Films" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png",SutraTV Nubile Films [15273 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/970332.ts
+#EXTINF:-1 tvg-id="None" tvg-name="XXX: Darling TV2 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",XXX: Darling TV2 HD [14432 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/292044.ts
+#EXTINF:-1 tvg-id="None" tvg-name="XXM: Pornbox Diabolic HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",XXM: Pornbox Diabolic HD [14755 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/291805.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net LIVE CAMS HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net LIVE CAMS HD [14899 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496549.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net ANAL HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net ANAL HD [14900 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496550.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net BIG ASS HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net BIG ASS HD [14901 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496551.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net BIG DICK HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net BIG DICK HD [14902 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496552.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net BIG TITS HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net BIG TITS HD [14903 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496553.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net LIVE CAMS HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net LIVE CAMS HD [14906 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496556.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net ANAL HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net ANAL HD [14907 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496557.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net BIG ASS HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net BIG ASS HD [14908 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496558.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net BIG DICK HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net BIG DICK HD [14909 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496559.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net Interracial HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net Interracial HD [14910 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496560.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net Latina HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net Latina HD [14911 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496561.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net Lesbian HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net Lesbian HD [14912 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496562.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net MILF HD" tvg-logo="http://iptv.4ktezz.top:8080/images/40f4043620d305ceef80f631133ae217.png",ADultipTV.net MILF HD [14913 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496563.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net Pornstar HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net Pornstar HD [14914 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496564.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net POV HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net POV HD [14915 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496565.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net Rough HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net Rough HD [14916 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496566.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net Russian HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net Russian HD [14917 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496567.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net TEEN HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net TEEN HD [14918 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496568.ts
+#EXTINF:-1 tvg-id="None" tvg-name="ADultipTV.net LIVE CAMS HD" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",ADultipTV.net LIVE CAMS HD [14920 Seasons]
+http://filex.me:8080/live/3114654477/5787654467/496570.ts
