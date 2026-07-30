@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: PAK IND BD All Channels
-#Generated: 2026-07-30 01:35:59
-#Total All Channels: 1815
+#Generated: 2026-07-30 11:41:57
+#Total All Channels: 1816
 #Server: http://filex.me:8080
 #Countries: Pakistan, India, Bangladesh
 
@@ -723,6 +723,8 @@ http://filex.me:8080/live/3114654477/5787654467/957585.ts
 http://filex.me:8080/live/3114654477/5787654467/957584.ts
 #EXTINF:-1 tvg-id="None" tvg-name="CRICKET (4) Urdu 2  ( Match Time Only)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx7da_qa94FyoeuOHp7jhGWruG_Xw4KO8pEXlHLQgNT5Q8Jjtke-0mX8&s=10",CRICKET (4) Urdu 2  ( Match Time Only)
 http://filex.me:8080/live/3114654477/5787654467/911332.ts
+#EXTINF:-1 tvg-id="None" tvg-name="Paramount+ 02: 10PM Alianza FC (SLV) vs. Antigua GFC" tvg-logo="https://iptvnow.app/telegramlogos/paramount.png",Paramount+ 02: 10PM Alianza FC (SLV) vs. Antigua GFC
+http://filex.me:8080/live/3114654477/5787654467/1390764.ts
 #EXTINF:-1 tvg-id="None" tvg-name="CInemania Bollywood 4K" tvg-logo="",CInemania Bollywood 4K
 http://filex.me:8080/live/3114654477/5787654467/532734.ts
 #EXTINF:-1 tvg-id="None" tvg-name="CInemania Telugu 4K" tvg-logo="",CInemania Telugu 4K
