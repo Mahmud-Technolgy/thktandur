@@ -1,9 +1,19 @@
 #EXTM3U
 #PLAYLIST: Complete All Movies
-#Generated: 2026-07-31 20:38:34
-#Total All Movies: 78872
+#Generated: 2026-08-06 05:41:14
+#Total All Movies: 78962
 #Server: http://filex.me:8080
 
+#EXTINF:-1 tvg-name="UFC Fight Night 283: Medić vs. Rodriguez (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvHfr6OmHneZuBtuUyKsH9DeVX.jpg",UFC Fight Night 283: Medić vs. Rodriguez (2026)
+http://filex.me:8080/movie/3114654477/5787654467/1395172.mp4
+#EXTINF:-1 tvg-name="UFC Fight Night 283: Medić vs. Rodriguez (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvHfr6OmHneZuBtuUyKsH9DeVX.jpg",UFC Fight Night 283: Medić vs. Rodriguez (2026)
+http://filex.me:8080/movie/3114654477/5787654467/1394191.mp4
+#EXTINF:-1 tvg-name="WWE SummerSlam 2026: Sunday - Countdown (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p3TqW1ID7hHsN549mOT5Yu8fO7W.jpg",WWE SummerSlam 2026: Sunday - Countdown (2026)
+http://filex.me:8080/movie/3114654477/5787654467/1393955.mp4
+#EXTINF:-1 tvg-name="WWE Friday Night SmackDown (31st July 2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ZGdpIr5iWqLCc9-aUGLKbRPd7SVcUKPty8ZA7XRRZ9KPXkNmJEl5OCo&s=10",WWE Friday Night SmackDown (31st July 2026)
+http://filex.me:8080/movie/3114654477/5787654467/1393952.mp4
+#EXTINF:-1 tvg-name="WWE NXT (28th July 2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxTyR_csTRxMo1Ct9O5Jc5exFloq6XQoBmW6cWI1fhqeIlkfTiXsLWsSZ&s=10",WWE NXT (28th July 2026)
+http://filex.me:8080/movie/3114654477/5787654467/1393949.mp4
 #EXTINF:-1 tvg-name="WWE Monday Night Raw (27th July 2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFl86GusJUk2JgWCou4njBdgOGYe8Di-Y-erVA6nCo7V2z5yPLXCRv2h9S&s=10",WWE Monday Night Raw (27th July 2026)
 http://filex.me:8080/movie/3114654477/5787654467/1391126.mp4
 #EXTINF:-1 tvg-name="WWE Friday Night SmackDown (24th July 2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Qana87ugGaGzQ0BsknNCkrE9k0jRBRx5EsuRAnL9r7pxvfYqh-smj0t6&s=10",WWE Friday Night SmackDown (24th July 2026)
@@ -5520,6 +5530,52 @@ http://filex.me:8080/movie/3114654477/5787654467/851462.mp4
 http://filex.me:8080/movie/3114654477/5787654467/851461.mp4
 #EXTINF:-1 tvg-name="Mohra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWAptaCNiTIJtv9cYqfF5E7qm0I.jpg",Mohra (1994) ⭐6.2
 http://filex.me:8080/movie/3114654477/5787654467/685811.mp4
+#EXTINF:-1 tvg-name="Beast (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",Beast (2026) (Hindi) ⭐6.353
+http://filex.me:8080/movie/3114654477/5787654467/1394908.mp4
+#EXTINF:-1 tvg-name="Balan - The Boy (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg",Balan - The Boy (2026) (Hindi) (CAM) ⭐8.1
+http://filex.me:8080/movie/3114654477/5787654467/1394199.mp4
+#EXTINF:-1 tvg-name="Taklee Genesis (2024) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUAjLT1ODkMnLR2z7KZHsErfnA4.jpg",Taklee Genesis (2024) (Hindi) ⭐7.096
+http://filex.me:8080/movie/3114654477/5787654467/1394196.mp4
+#EXTINF:-1 tvg-name="Mahaprabhu Jagannath (2026) (Hindi) (CAM)" tvg-logo="",Mahaprabhu Jagannath (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/3114654477/5787654467/1394192.mp4
+#EXTINF:-1 tvg-name="Mavuta (Hindi) (2026) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbSueT5APXQNpyx5W01ukqvDx34.jpg",Mavuta (Hindi) (2026) 
+http://filex.me:8080/movie/3114654477/5787654467/1393920.mp4
+#EXTINF:-1 tvg-name="The Malabar Tales (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBOmXwI1NfSgArELWwZvi44K8Il.jpg",The Malabar Tales (2025) (Hindi)
+http://filex.me:8080/movie/3114654477/5787654467/1393916.mp4
+#EXTINF:-1 tvg-name="You, Always (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpnJSPZxdr307Dn7dvKdEYMjbRG.jpg",You, Always (2026) (Hindi) ⭐6
+http://filex.me:8080/movie/3114654477/5787654467/1393806.mp4
+#EXTINF:-1 tvg-name="Bhai Tera Star Hai (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hi8jjHZLNqsG3rXnv79yhDDMnc.jpg",Bhai Tera Star Hai (2026) (Hindi) (CAM)
+http://filex.me:8080/movie/3114654477/5787654467/1393805.mp4
+#EXTINF:-1 tvg-name="Bhuvanam Gaganam (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/griqxwf3olRWckRj4iZbrgdPNcN.jpg",Bhuvanam Gaganam (2025)
+http://filex.me:8080/movie/3114654477/5787654467/1393804.mp4
+#EXTINF:-1 tvg-name="One Night Only (2026) (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",One Night Only (2026) (HDCAM) ⭐6.7
+http://filex.me:8080/movie/3114654477/5787654467/1393803.mp4
+#EXTINF:-1 tvg-name="Son of Sara: Volume 1 (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsLP0bgEL4CWY9qhsrTov8dhYnL.jpg",Son of Sara: Volume 1 (2025) (Hindi) ⭐10
+http://filex.me:8080/movie/3114654477/5787654467/1393802.mp4
+#EXTINF:-1 tvg-name="The Bose Files: Sach Ya Sazish (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpaQeSJXdenEiOVE3nIaKC91WTc.jpg",The Bose Files: Sach Ya Sazish (2026) (Hindi) (CAM) ⭐9
+http://filex.me:8080/movie/3114654477/5787654467/1393800.mp4
+#EXTINF:-1 tvg-name="Chum (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKUYfLzpb6nIxz2OnzoAmxIMFFX.jpg",Chum (2026) (Hindi) ⭐4.606
+http://filex.me:8080/movie/3114654477/5787654467/1393799.mp4
+#EXTINF:-1 tvg-name="Spider-Man: Brand New Day (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPOn6DinuVyLY17YM9mKuPofV08.jpg",Spider-Man: Brand New Day (2026) (Hindi) (CAM) ⭐8
+http://filex.me:8080/movie/3114654477/5787654467/1393668.mp4
+#EXTINF:-1 tvg-name="The Ballad of Wallis Island (2025) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haS6bnqDqZoi5sYcCPJWaj2yMbB.jpg",The Ballad of Wallis Island (2025) (Hindi) ⭐7.255
+http://filex.me:8080/movie/3114654477/5787654467/1393667.mp4
+#EXTINF:-1 tvg-name="Shake, Rattle & Roll: Evil Origins (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ayOQIh18qhJRoajoAxxGuZXry2.jpg",Shake, Rattle & Roll: Evil Origins (2026) (Hindi) ⭐2
+http://filex.me:8080/movie/3114654477/5787654467/1393664.mp4
+#EXTINF:-1 tvg-name="The Loved One (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVZQcphJRWVJgQZtWztrauB6Fwe.jpg",The Loved One (2026) (Hindi) ⭐6.333
+http://filex.me:8080/movie/3114654477/5787654467/1393662.mp4
+#EXTINF:-1 tvg-name="Peddi (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",Peddi (2026) (Hindi) ⭐5.9
+http://filex.me:8080/movie/3114654477/5787654467/1393661.mp4
+#EXTINF:-1 tvg-name="Wild Sing (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lIdil3vd2tu5NmKspGkJ2ny0oS.jpg",Wild Sing (2026) (Hindi) ⭐5.7
+http://filex.me:8080/movie/3114654477/5787654467/1393660.mp4
+#EXTINF:-1 tvg-name="Hai Jawani Toh Ishq Hona Hai (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",Hai Jawani Toh Ishq Hona Hai (2026) (Hindi) ⭐5.6
+http://filex.me:8080/movie/3114654477/5787654467/1393659.mp4
+#EXTINF:-1 tvg-name="Gatta Kusthi 2 (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",Gatta Kusthi 2 (2026) (Hindi) ⭐1.2
+http://filex.me:8080/movie/3114654477/5787654467/1393648.mp4
+#EXTINF:-1 tvg-name="Rao Bahadur (2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",Rao Bahadur (2026) (Hindi) ⭐5
+http://filex.me:8080/movie/3114654477/5787654467/1393647.mp4
+#EXTINF:-1 tvg-name=""Wuthering Heights"(2026) (Hindi)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YBce6dTh1D5oCMITXk2S5QhPt.jpg","Wuthering Heights"(2026) (Hindi) ⭐6.662
+http://filex.me:8080/movie/3114654477/5787654467/1391451.mp4
 #EXTINF:-1 tvg-name="Max, Min and Meowzaki (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ru6YpK7U4QH8cO3OKMKo5ZXgXj.jpg",Max, Min and Meowzaki (2026) (Hindi) (CAM)
 http://filex.me:8080/movie/3114654477/5787654467/1391202.mp4
 #EXTINF:-1 tvg-name="Maa Inti Bangaram (2026) (Hindi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JO2WYPwBL6qWsKIM4v7loHrNCX.jpg",Maa Inti Bangaram (2026) (Hindi) (CAM) ⭐7
@@ -22484,6 +22540,40 @@ http://filex.me:8080/movie/3114654477/5787654467/859713.mp4
 http://filex.me:8080/movie/3114654477/5787654467/859712.mp4
 #EXTINF:-1 tvg-name="Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos" tvg-logo="",Chhota Bheem - Crazy Cards World _ Videos for Kids in Hindi _ Fun Kids Videos
 http://filex.me:8080/movie/3114654477/5787654467/859711.mp4
+#EXTINF:-1 tvg-name="Biff the Human Slayer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9MmcMD43KhrrChkq2qmcWPRLFM.jpg",Biff the Human Slayer
+http://filex.me:8080/movie/3114654477/5787654467/1394877.mp4
+#EXTINF:-1 tvg-name="Love Oh Love (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37svY2bwI83NSHuR6KSQeBhjgOt.jpg",Love Oh Love (2026) (Malayalam)
+http://filex.me:8080/movie/3114654477/5787654467/1393922.mp4
+#EXTINF:-1 tvg-name="Love Oh Love (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37svY2bwI83NSHuR6KSQeBhjgOt.jpg",Love Oh Love (2026) (Kannada)
+http://filex.me:8080/movie/3114654477/5787654467/1393921.mp4
+#EXTINF:-1 tvg-name="Chum (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKUYfLzpb6nIxz2OnzoAmxIMFFX.jpg",Chum (2026) (Tamil) ⭐4.606
+http://filex.me:8080/movie/3114654477/5787654467/1393798.mp4
+#EXTINF:-1 tvg-name="Gatta Kusthi 2 (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",Gatta Kusthi 2 (2026) (Kannada) ⭐1.2
+http://filex.me:8080/movie/3114654477/5787654467/1393657.mp4
+#EXTINF:-1 tvg-name="Gatta Kusthi 2 (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",Gatta Kusthi 2 (2026) (Malayalam) ⭐1.2
+http://filex.me:8080/movie/3114654477/5787654467/1393656.mp4
+#EXTINF:-1 tvg-name="Balan - The Boy (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg",Balan - The Boy (2026) (Kannada) ⭐7
+http://filex.me:8080/movie/3114654477/5787654467/1393654.mp4
+#EXTINF:-1 tvg-name="Rao Bahadur (2026) (Kannada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",Rao Bahadur (2026) (Kannada) ⭐5
+http://filex.me:8080/movie/3114654477/5787654467/1393652.mp4
+#EXTINF:-1 tvg-name="Spider-Man: Brand New Day (2026) (Tamil) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPOn6DinuVyLY17YM9mKuPofV08.jpg",Spider-Man: Brand New Day (2026) (Tamil) (CAM) ⭐8
+http://filex.me:8080/movie/3114654477/5787654467/1393651.mp4
+#EXTINF:-1 tvg-name="Balan - The Boy (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg",Balan - The Boy (2026) (Tamil) ⭐7
+http://filex.me:8080/movie/3114654477/5787654467/1393650.mp4
+#EXTINF:-1 tvg-name="Balan - The Boy (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg",Balan - The Boy (2026) (Malayalam) ⭐7
+http://filex.me:8080/movie/3114654477/5787654467/1393646.mp4
+#EXTINF:-1 tvg-name="Love Oh Love (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6O7sNFE59Zd3LIS2T45e1mt4Q9.jpg",Love Oh Love (2026) (Tamil)
+http://filex.me:8080/movie/3114654477/5787654467/1393645.mp4
+#EXTINF:-1 tvg-name="Rao Bahadur (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",Rao Bahadur (2026) (Tamil) ⭐5
+http://filex.me:8080/movie/3114654477/5787654467/1393644.mp4
+#EXTINF:-1 tvg-name="Kaalam paranja kadha (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/296cxuI9qgcwLX7eflAfe9knYXr.jpg",Kaalam paranja kadha (2026) (Malayalam)
+http://filex.me:8080/movie/3114654477/5787654467/1393643.mp4
+#EXTINF:-1 tvg-name="Rao Bahadur (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",Rao Bahadur (2026) (Malayalam) ⭐5
+http://filex.me:8080/movie/3114654477/5787654467/1393642.mp4
+#EXTINF:-1 tvg-name="Gatta Kusthi 2 (2026) (Tamil)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",Gatta Kusthi 2 (2026) (Tamil) ⭐1.2
+http://filex.me:8080/movie/3114654477/5787654467/1393640.mp4
+#EXTINF:-1 tvg-name="Black-Eyed Terror" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvfvKc6wYR3rpdVvywkdVnkp6Ox.jpg",Black-Eyed Terror
+http://filex.me:8080/movie/3114654477/5787654467/1391181.mp4
 #EXTINF:-1 tvg-name="Tales from the Shiny Diner" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoiKyQLb0sso7k1sR8I3wOOB23z.jpg",Tales from the Shiny Diner
 http://filex.me:8080/movie/3114654477/5787654467/1391150.mp4
 #EXTINF:-1 tvg-name="Chinna Chinna Aasai (2026) (Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg",Chinna Chinna Aasai (2026) (Malayalam)
@@ -36650,10 +36740,64 @@ http://filex.me:8080/movie/3114654477/5787654467/885980.mp4
 http://filex.me:8080/movie/3114654477/5787654467/885979.mp4
 #EXTINF:-1 tvg-name="Mission 007 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQufNu6Aw3Emze7bxvYNAXzaZNi.jpg",Mission 007 (2025)
 http://filex.me:8080/movie/3114654477/5787654467/885978.mp4
+#EXTINF:-1 tvg-name="Jared Leto: Hollywood's Dark Secret (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Tq6JTx5NNc4GSHYK2DmkhulmDG.jpg",Jared Leto: Hollywood's Dark Secret (2026)
+http://filex.me:8080/movie/3114654477/5787654467/1394913.mp4
+#EXTINF:-1 tvg-name="Mary Beth Barone: Galaxy Brain (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",Mary Beth Barone: Galaxy Brain (2026)
+http://filex.me:8080/movie/3114654477/5787654467/1394910.mp4
+#EXTINF:-1 tvg-name="Storm on Sesame Street (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",Storm on Sesame Street (2026)
+http://filex.me:8080/movie/3114654477/5787654467/1394907.mp4
+#EXTINF:-1 tvg-name="谢霆锋「Evolution Nic 进化」巡回演唱会・北京站（2026） (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHjSeKI1Jo0kSPQLu5klCiFc5qx.jpg",谢霆锋「Evolution Nic 进化」巡回演唱会・北京站（2026） (2026) ⭐5.8
+http://filex.me:8080/movie/3114654477/5787654467/1394876.mp4
+#EXTINF:-1 tvg-name="WWE SummerSlam 2026: Sunday (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",WWE SummerSlam 2026: Sunday (2026) ⭐8
+http://filex.me:8080/movie/3114654477/5787654467/1394875.mp4
+#EXTINF:-1 tvg-name="The Wrong Marriage (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eishOW7O3iJVi1H7m6ChsAWE71l.jpg",The Wrong Marriage (2025)
+http://filex.me:8080/movie/3114654477/5787654467/1394198.mp4
+#EXTINF:-1 tvg-name="The Nurse Who Knew Too Much (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQosmTWpsTPPRQrSxQSZ7lgtD34.jpg",The Nurse Who Knew Too Much (2025) ⭐7
+http://filex.me:8080/movie/3114654477/5787654467/1394197.mp4
+#EXTINF:-1 tvg-name="Survivors: The Spectre of Threads (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e25hN9wIU1bhFam88kcPXB0wIsq.jpg",Survivors: The Spectre of Threads (2025)
+http://filex.me:8080/movie/3114654477/5787654467/1394195.mp4
+#EXTINF:-1 tvg-name="The Hockey Mom's Revenge (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ys9FW82ndhlo2e0OYvKEsmQF22J.jpg",The Hockey Mom's Revenge (2025) ⭐6
+http://filex.me:8080/movie/3114654477/5787654467/1394190.mp4
+#EXTINF:-1 tvg-name="WWE SummerSlam 2026: Saturday (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mASBuCwVd01yqacg4dFBAwsWMAh.jpg",WWE SummerSlam 2026: Saturday (2026) ⭐7.1
+http://filex.me:8080/movie/3114654477/5787654467/1394165.mp4
+#EXTINF:-1 tvg-name="A Dance with Death (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub8J6xv9WqQ8QMNXD5T6vYT2Xls.jpg",A Dance with Death (2025)
+http://filex.me:8080/movie/3114654477/5787654467/1393913.mp4
+#EXTINF:-1 tvg-name="Son of Sara: Volume 1 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsLP0bgEL4CWY9qhsrTov8dhYnL.jpg",Son of Sara: Volume 1 (2025) ⭐10
+http://filex.me:8080/movie/3114654477/5787654467/1393912.mp4
+#EXTINF:-1 tvg-name="Date at Your Own Risk (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xni9Vw9Jz6Xsa8Dm13HKgb6Dpho.jpg",Date at Your Own Risk (2025) ⭐4
+http://filex.me:8080/movie/3114654477/5787654467/1393911.mp4
+#EXTINF:-1 tvg-name="The Fall of Sir Douglas Weatherford (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umKvuPWAXEUz9Mz8f23x5fHlW18.jpg",The Fall of Sir Douglas Weatherford (2026) ⭐6.333
+http://filex.me:8080/movie/3114654477/5787654467/1393910.mp4
+#EXTINF:-1 tvg-name="Soulm8te (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",Soulm8te (2026) ⭐6.284
+http://filex.me:8080/movie/3114654477/5787654467/1393908.mp4
+#EXTINF:-1 tvg-name="The Loved One (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVZQcphJRWVJgQZtWztrauB6Fwe.jpg",The Loved One (2026) ⭐6.333
+http://filex.me:8080/movie/3114654477/5787654467/1393813.mp4
+#EXTINF:-1 tvg-name="Toni Braxton’s Breathe Again (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Xim60gkFL3eAxqHBpnrjZZ0KKg.jpg",Toni Braxton’s Breathe Again (2026) ⭐8.5
+http://filex.me:8080/movie/3114654477/5787654467/1393811.mp4
+#EXTINF:-1 tvg-name="Snoopy Presents: There's No Place Like Home, Snoopy (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YbC4SlzE030BgxWdKDdlatMh5W.jpg",Snoopy Presents: There's No Place Like Home, Snoopy (2026) ⭐7
+http://filex.me:8080/movie/3114654477/5787654467/1393810.mp4
+#EXTINF:-1 tvg-name="Due West (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ornHNCuXiz5kxWPD4uoZLqrE6cd.jpg",Due West (2026)
+http://filex.me:8080/movie/3114654477/5787654467/1393809.mp4
+#EXTINF:-1 tvg-name="4 First Dates (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SZnZ16zDYvp7pdVLVc2Owza59R.jpg",4 First Dates (2026) ⭐5
+http://filex.me:8080/movie/3114654477/5787654467/1393808.mp4
+#EXTINF:-1 tvg-name="Rose of Nevada (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",Rose of Nevada (2026) ⭐6.6
+http://filex.me:8080/movie/3114654477/5787654467/1393801.mp4
+#EXTINF:-1 tvg-name="Capps Crossing: Wrong Side of Dead (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrckam4GGGnlMWXCjiYxD7XzHaO.jpg",Capps Crossing: Wrong Side of Dead (2026)
+http://filex.me:8080/movie/3114654477/5787654467/1393670.mp4
+#EXTINF:-1 tvg-name="I Know Where You Live (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AXQNcltqGBLMl7t2iy6CcSd1z0.jpg",I Know Where You Live (2026)
+http://filex.me:8080/movie/3114654477/5787654467/1393669.mp4
+#EXTINF:-1 tvg-name="Spider-Man: Brand New Day (2026) (HDCAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPOn6DinuVyLY17YM9mKuPofV08.jpg",Spider-Man: Brand New Day (2026) (HDCAM) ⭐8
+http://filex.me:8080/movie/3114654477/5787654467/1393666.mp4
+#EXTINF:-1 tvg-name="Mala (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kvcXOUbqajbCVymdzLrYgrM94.jpg",Mala (2026) ⭐10
+http://filex.me:8080/movie/3114654477/5787654467/1393665.mp4
+#EXTINF:-1 tvg-name="Undisclosed Location: The Haunted Mountain" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooZTxEDlz2A3LpBBNQKPughZaFV.jpg",Undisclosed Location: The Haunted Mountain
+http://filex.me:8080/movie/3114654477/5787654467/1393663.mp4
 #EXTINF:-1 tvg-name="End of Days (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pY8FbKKl3VD0jRI1iDFrwN6alLa.jpg",End of Days (1999) ⭐6.104
 http://filex.me:8080/movie/3114654477/5787654467/1391205.mp4
 #EXTINF:-1 tvg-name="My Dead Summer (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Id8hwqmNBEI3Q5rmcMoGd1NTi8.jpg",My Dead Summer (2026)
 http://filex.me:8080/movie/3114654477/5787654467/1391197.mp4
+#EXTINF:-1 tvg-name="The Devil's Mouth (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",The Devil's Mouth (2026) ⭐6.339
+http://filex.me:8080/movie/3114654477/5787654467/1391194.mp4
 #EXTINF:-1 tvg-name="House on Haunted Hill (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLFEax8UGcq7aDMtZsETw9b0YiZ.jpg",House on Haunted Hill (2026)
 http://filex.me:8080/movie/3114654477/5787654467/1391192.mp4
 #EXTINF:-1 tvg-name="The Gentleman Thief (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMutDMODnbCZf46w0dK4wncQmDB.jpg",The Gentleman Thief (2026) ⭐7.1
@@ -36666,6 +36810,8 @@ http://filex.me:8080/movie/3114654477/5787654467/1391187.mp4
 http://filex.me:8080/movie/3114654477/5787654467/1391186.mp4
 #EXTINF:-1 tvg-name="Achilles Returns (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1K6o5Tdno278HYHmsxDQtjgxw5m.jpg",Achilles Returns (2026) ⭐7.5
 http://filex.me:8080/movie/3114654477/5787654467/1391185.mp4
+#EXTINF:-1 tvg-name="Edgar Allan Poe's The Oval Portrait (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ptaoJluiDxWuwMn7bzQhB2nthy.jpg",Edgar Allan Poe's The Oval Portrait (2025)
+http://filex.me:8080/movie/3114654477/5787654467/1391184.mp4
 #EXTINF:-1 tvg-name="Goblin II (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSlGDWLWX1z0fjjzPAL7KN10WjS.jpg",Goblin II (2026)
 http://filex.me:8080/movie/3114654477/5787654467/1391183.mp4
 #EXTINF:-1 tvg-name="Go to Sleep (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVLcMvkdCUUbDmp1dPQ36ewkGUY.jpg",Go to Sleep (2026)
@@ -36692,6 +36838,8 @@ http://filex.me:8080/movie/3114654477/5787654467/1391099.mp4
 http://filex.me:8080/movie/3114654477/5787654467/1390942.mp4
 #EXTINF:-1 tvg-name="Avatar Aang: The Last Airbender (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",Avatar Aang: The Last Airbender (2026) ⭐9.407
 http://filex.me:8080/movie/3114654477/5787654467/1390941.mp4
+#EXTINF:-1 tvg-name="Blood & Rust (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hg7DClp5yenC5IbJ04sl8Mn2b32.jpg",Blood & Rust (2026)
+http://filex.me:8080/movie/3114654477/5787654467/1390940.mp4
 #EXTINF:-1 tvg-name="I Hate Found Footage (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDhyqIwsYaETBDPsaEmFpCrbr9W.jpg",I Hate Found Footage (2026) ⭐3
 http://filex.me:8080/movie/3114654477/5787654467/1390938.mp4
 #EXTINF:-1 tvg-name="Her Private Hell (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",Her Private Hell (2026) ⭐4.9
@@ -67020,8 +67168,6 @@ http://filex.me:8080/movie/3114654477/5787654467/878716.mp4
 http://filex.me:8080/movie/3114654477/5787654467/878715.mp4
 #EXTINF:-1 tvg-name="Smokin' Aces (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrdnN8WqvyOt8Bnl3hgWcZD6ZyM.jpg",Smokin' Aces (2006) ⭐6.482
 http://filex.me:8080/movie/3114654477/5787654467/878714.mp4
-#EXTINF:-1 tvg-name="The Dark Knight (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",The Dark Knight (2008) ⭐8.525
-http://filex.me:8080/movie/3114654477/5787654467/878712.mp4
 #EXTINF:-1 tvg-name="Lonely Hearts (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnQK4JUwEUFDKt7dSMY2fJmhv2f.jpg",Lonely Hearts (2006) ⭐6
 http://filex.me:8080/movie/3114654477/5787654467/878711.mp4
 #EXTINF:-1 tvg-name="I Give It a Year (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCSqxrM5Sw6AhDIRfxQ4BenPd9y.jpg",I Give It a Year (2013) ⭐5.519
@@ -67902,8 +68048,6 @@ http://filex.me:8080/movie/3114654477/5787654467/878139.mp4
 http://filex.me:8080/movie/3114654477/5787654467/878138.mp4
 #EXTINF:-1 tvg-name="Who Took Johnny (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93QgSxYD68F3jeICIB8mYaZzhPi.jpg",Who Took Johnny (2014) ⭐6.839
 http://filex.me:8080/movie/3114654477/5787654467/878137.mp4
-#EXTINF:-1 tvg-name="The Dark Knight Rises (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",The Dark Knight Rises (2012) ⭐7.789
-http://filex.me:8080/movie/3114654477/5787654467/878136.mp4
 #EXTINF:-1 tvg-name="The Sum of All Fears (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",The Sum of All Fears (2002) ⭐6.364
 http://filex.me:8080/movie/3114654477/5787654467/878135.mp4
 #EXTINF:-1 tvg-name="Christmas Perfection (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5jDEuUCrWJ9vQyKLMJyuv5mFeB.jpg",Christmas Perfection (2018) ⭐5.703
@@ -70642,6 +70786,28 @@ http://filex.me:8080/movie/3114654477/5787654467/876336.mp4
 http://filex.me:8080/movie/3114654477/5787654467/876335.mp4
 #EXTINF:-1 tvg-name="Sex Tape (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFdS7SIdjcrYXtf141dabWVly9B.jpg",Sex Tape (2014) ⭐5.4
 http://filex.me:8080/movie/3114654477/5787654467/876334.mp4
+#EXTINF:-1 tvg-name="The Dark Knight Rises (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",The Dark Knight Rises (2012) ⭐7.797
+http://filex.me:8080/movie/3114654477/5787654467/1394212.mp4
+#EXTINF:-1 tvg-name="The Dark Knight (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",The Dark Knight (2008) ⭐8.534
+http://filex.me:8080/movie/3114654477/5787654467/1394209.mp4
+#EXTINF:-1 tvg-name="Love Oh Love (2026) (Telugu)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37svY2bwI83NSHuR6KSQeBhjgOt.jpg",Love Oh Love (2026) (Telugu)
+http://filex.me:8080/movie/3114654477/5787654467/1393919.mp4
+#EXTINF:-1 tvg-name="Police Complaint (2026) (Telugu)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiKYrr7UavAFcLoOdMVlNPgLFNl.jpg",Police Complaint (2026) (Telugu)
+http://filex.me:8080/movie/3114654477/5787654467/1393917.mp4
+#EXTINF:-1 tvg-name="Hip Hip Hurray (2026) (Gujarati) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nR3ZfrnmvBV8ZWt9yMALqyhuweU.jpg",Hip Hip Hurray (2026) (Gujarati) (CAM)
+http://filex.me:8080/movie/3114654477/5787654467/1393909.mp4
+#EXTINF:-1 tvg-name="Chum (2026) (Telugu)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKUYfLzpb6nIxz2OnzoAmxIMFFX.jpg",Chum (2026) (Telugu) ⭐4.606
+http://filex.me:8080/movie/3114654477/5787654467/1393797.mp4
+#EXTINF:-1 tvg-name="Spider-Man: Brand New Day (2026) (Telugu) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPOn6DinuVyLY17YM9mKuPofV08.jpg",Spider-Man: Brand New Day (2026) (Telugu) (CAM) ⭐8
+http://filex.me:8080/movie/3114654477/5787654467/1393658.mp4
+#EXTINF:-1 tvg-name="Deewana (2026) (Telugu)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QkUCZep8cWBcu3982OrYitb9L1.jpg",Deewana (2026) (Telugu) ⭐4
+http://filex.me:8080/movie/3114654477/5787654467/1393655.mp4
+#EXTINF:-1 tvg-name="Gatta Kusthi 2 (2026) (Telugu)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",Gatta Kusthi 2 (2026) (Telugu) ⭐1.2
+http://filex.me:8080/movie/3114654477/5787654467/1393649.mp4
+#EXTINF:-1 tvg-name="Rao Bahadur (2026) (Telugu)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",Rao Bahadur (2026) (Telugu) ⭐5
+http://filex.me:8080/movie/3114654477/5787654467/1393641.mp4
+#EXTINF:-1 tvg-name="Balan - The Boy (2026) (Telugu)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg",Balan - The Boy (2026) (Telugu) ⭐7
+http://filex.me:8080/movie/3114654477/5787654467/1393639.mp4
 #EXTINF:-1 tvg-name="Devil Seed (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjrDE4agtUL3xGEVAlN0SkCjbuk.jpg",Devil Seed (2012) ⭐4.597
 http://filex.me:8080/movie/3114654477/5787654467/1391170.mp4
 #EXTINF:-1 tvg-name="Ishqnama (2026) (Punjabi) (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrZ4dXr4teT8gqwQfUMdQMRZInH.jpg",Ishqnama (2026) (Punjabi) (CAM)
@@ -81214,6 +81380,24 @@ http://filex.me:8080/movie/3114654477/5787654467/899364.mp4
 http://filex.me:8080/movie/3114654477/5787654467/899363.mp4
 #EXTINF:-1 tvg-name="All Hallows' Eve (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSe8CBqK8HkbP6sqZWzcJfQV9Ci.jpg",All Hallows' Eve (2013) ⭐5.639
 http://filex.me:8080/movie/3114654477/5787654467/880698.mp4
+#EXTINF:-1 tvg-name="Broken Years (2026)  (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idyAZuRlrdWOQVY3XcJnCxu7rfu.jpg",Broken Years (2026)  (Turkish) ⭐8
+http://filex.me:8080/movie/3114654477/5787654467/1394915.mp4
+#EXTINF:-1 tvg-name="GOAT (2026) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",GOAT (2026) (Turkish) ⭐8.105
+http://filex.me:8080/movie/3114654477/5787654467/1394914.mp4
+#EXTINF:-1 tvg-name="The Summer of Our Love (2024) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLexOoATn0WIR8rIAfjAGaUBLcL.jpg",The Summer of Our Love (2024) (Turkish) ⭐7.7
+http://filex.me:8080/movie/3114654477/5787654467/1394911.mp4
+#EXTINF:-1 tvg-name="Shake, Rattle & Roll: Evil Origins (2026) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ayOQIh18qhJRoajoAxxGuZXry2.jpg",Shake, Rattle & Roll: Evil Origins (2026) (Turkish) ⭐3
+http://filex.me:8080/movie/3114654477/5787654467/1394906.mp4
+#EXTINF:-1 tvg-name="Fountain of Youth (2025) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg",Fountain of Youth (2025) (Turkish) ⭐6.247
+http://filex.me:8080/movie/3114654477/5787654467/1393918.mp4
+#EXTINF:-1 tvg-name="And The Rest Will Follow (2025) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwW6AYooPYMIkM2LkzY7qvIYgqz.jpg",And The Rest Will Follow (2025) (Turkish) ⭐7.5
+http://filex.me:8080/movie/3114654477/5787654467/1393915.mp4
+#EXTINF:-1 tvg-name="President (2024) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xN70vhJ7X1qQIVkmlqh4P5g5j7.jpg",President (2024) (Turkish) ⭐2
+http://filex.me:8080/movie/3114654477/5787654467/1393914.mp4
+#EXTINF:-1 tvg-name="Playing Through (2024) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0B5dgZ05TEtvXpvx3nzsYFZqPq.jpg",Playing Through (2024) (Turkish)
+http://filex.me:8080/movie/3114654477/5787654467/1393814.mp4
+#EXTINF:-1 tvg-name="Wild Sing (2026) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lIdil3vd2tu5NmKspGkJ2ny0oS.jpg",Wild Sing (2026) (Turkish) ⭐6
+http://filex.me:8080/movie/3114654477/5787654467/1393812.mp4
 #EXTINF:-1 tvg-name="Summer Light (2024) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2VAz51lJSjFUKSjIa9FyuItmFX.jpg",Summer Light (2024) (Turkish)
 http://filex.me:8080/movie/3114654477/5787654467/1391196.mp4
 #EXTINF:-1 tvg-name="Promised Sky (2026) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJCOjtz4rCxhrPfHH26lOb89reX.jpg",Promised Sky (2026) (Turkish) ⭐5.9
@@ -81224,6 +81408,8 @@ http://filex.me:8080/movie/3114654477/5787654467/1391189.mp4
 http://filex.me:8080/movie/3114654477/5787654467/1391155.mp4
 #EXTINF:-1 tvg-name="The Bayou (2025) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg",The Bayou (2025) (Turkish) ⭐5.471
 http://filex.me:8080/movie/3114654477/5787654467/1391152.mp4
+#EXTINF:-1 tvg-name="The Marsh King's Daughter (2023) Turkish " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg",The Marsh King's Daughter (2023) Turkish  ⭐6.392
+http://filex.me:8080/movie/3114654477/5787654467/1391108.mp4
 #EXTINF:-1 tvg-name="One More Shot (2024) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XxnWZzhMC1rOzUCJpc6CzmBIQe.jpg",One More Shot (2024) (Turkish) ⭐6.532
 http://filex.me:8080/movie/3114654477/5787654467/1391107.mp4
 #EXTINF:-1 tvg-name="Merrily We Roll Along (2025) (Turkish)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",Merrily We Roll Along (2025) (Turkish) ⭐6.7
@@ -84692,8 +84878,6 @@ http://filex.me:8080/movie/3114654477/5787654467/940963.mp4
 http://filex.me:8080/movie/3114654477/5787654467/940962.mp4
 #EXTINF:-1 tvg-name="The Cured STR Ex-YU" tvg-logo="",The Cured STR Ex-YU
 http://filex.me:8080/movie/3114654477/5787654467/940961.mp4
-#EXTINF:-1 tvg-name="The Dark Knight STR Ex-YU" tvg-logo="",The Dark Knight STR Ex-YU
-http://filex.me:8080/movie/3114654477/5787654467/940960.mp4
 #EXTINF:-1 tvg-name="The Dark Tower STR Ex-YU" tvg-logo="",The Dark Tower STR Ex-YU
 http://filex.me:8080/movie/3114654477/5787654467/940959.mp4
 #EXTINF:-1 tvg-name="The Dawnseeker STR Ex-YU" tvg-logo="",The Dawnseeker STR Ex-YU
@@ -96544,10 +96728,6 @@ http://filex.me:8080/movie/3114654477/5787654467/934213.mp4
 http://filex.me:8080/movie/3114654477/5787654467/934212.mp4
 #EXTINF:-1 tvg-name="NC: Batman Begins" tvg-logo="https://image.tmdb.org/t/p/original/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg",NC: Batman Begins
 http://filex.me:8080/movie/3114654477/5787654467/934211.mp4
-#EXTINF:-1 tvg-name="NC: Batman - The Dark Knight Rises" tvg-logo="https://image.tmdb.org/t/p/original/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg",NC: Batman - The Dark Knight Rises
-http://filex.me:8080/movie/3114654477/5787654467/934210.mp4
-#EXTINF:-1 tvg-name="NC: Batman - The Dark Knight" tvg-logo="https://image.tmdb.org/t/p/original/kkjTbwV1Xnj8wBL52PjOcXzTbnb.jpg",NC: Batman - The Dark Knight
-http://filex.me:8080/movie/3114654477/5787654467/934209.mp4
 #EXTINF:-1 tvg-name="NC: Air Buddies" tvg-logo="https://image.tmdb.org/t/p/original/7eRiBonjI6PxlXIMGkzxtL2pvU6.jpg",NC: Air Buddies
 http://filex.me:8080/movie/3114654477/5787654467/934208.mp4
 #EXTINF:-1 tvg-name="NC: Acts Of Violence" tvg-logo="https://image.tmdb.org/t/p/original/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg",NC: Acts Of Violence
